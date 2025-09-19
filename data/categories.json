@@ -1,0 +1,108 @@
+[
+  {
+    "age_group": "7-10",
+    "category": "Compound Words",
+    "description": "Words formed by combining two smaller words.",
+    "category_slug": "compound-words",
+    "examples": ["toothbrush", "raincoat", "playground", "sunflower"]
+  },
+  {
+    "age_group": "7-10",
+    "category": "Easy Phonetic Words",
+    "description": "Words that are spelled exactly as they sound.",
+    "category_slug": "easy-phonetic-words",
+    "examples": ["cat", "frog", "jump", "black"]
+  },
+  {
+    "age_group": "7-10",
+    "category": "Double Letters",
+    "description": "Words that contain repeated letters.",
+    "category_slug": "double-letters",
+    "examples": ["apple", "happy", "class", "kitten"]
+  },
+  {
+    "age_group": "7-10",
+    "category": "Basic Homophones",
+    "description": "Simple words that sound the same but are spelled differently.",
+    "category_slug": "basic-homophones",
+    "examples": ["to", "two", "too", "see", "sea"]
+  },
+  {
+    "age_group": "7-10",
+    "category": "Silent Letter Starters",
+    "description": "Words that start with silent letters like K or P.",
+    "category_slug": "silent-letter-starters",
+    "examples": ["knee", "knock", "pneumonia", "gnome"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Silent Letters",
+    "description": "Words with letters that are not pronounced but must be spelled.",
+    "category_slug": "silent-letters",
+    "examples": ["island", "thumb", "wrestle", "honest"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Prefixes and Suffixes",
+    "description": "Words that use common prefixes or suffixes to change meaning.",
+    "category_slug": "prefixes-suffixes",
+    "examples": ["disagree", "preheat", "careless", "happiness"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Tricky Plurals",
+    "description": "Words with irregular or non-standard plural forms.",
+    "category_slug": "tricky-plurals",
+    "examples": ["mice", "geese", "children", "leaves"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Tion vs Sion Endings",
+    "description": "Words ending with -tion or -sion that sound similar.",
+    "category_slug": "tion-sion-endings",
+    "examples": ["creation", "decision", "confusion", "invention"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Common Rule Breakers",
+    "description": "Words that break phonetic rules or common spelling patterns.",
+    "category_slug": "common-rule-breakers",
+    "examples": ["weird", "science", "seize", "foreign"]
+  },
+  {
+    "age_group": "14-17",
+    "category": "Foreign-Origin Words",
+    "description": "Words borrowed from other languages with unique spellings.",
+    "category_slug": "foreign-origin-words",
+    "examples": ["ballet", "tsunami", "rendezvous", "karaoke"]
+  },
+  {
+    "age_group": "14-17",
+    "category": "Literary Vocabulary",
+    "description": "Advanced vocabulary used in literature and writing.",
+    "category_slug": "literary-vocabulary",
+    "examples": ["metaphor", "melancholy", "hyperbole", "onomatopoeia"]
+  },
+  {
+    "age_group": "14-17",
+    "category": "Scientific Terms",
+    "description": "Academic vocabulary from science subjects.",
+    "category_slug": "scientific-terms",
+    "examples": ["photosynthesis", "ecosystem", "hypothesis", "molecule"]
+  },
+  {
+    "age_group": "14-17",
+    "category": "Mythological Names",
+    "description": "Names from mythology and ancient history.",
+    "category_slug": "mythological-names",
+    "examples": ["Hercules", "Athena", "Zeus", "Odysseus"]
+  },
+  {
+    "age_group": "11-13",
+    "category": "Phonetically Misleading Words",
+    "description": "Words whose pronunciation suggests an incorrect but plausible spelling, often involving silent letters or deceptive phonetics.",
+    "category_slug": "phonetically-misleading",
+    "examples": ["knighthood", "falsehood", "Wednesday", "colonel", "debt"]
+  }
+
+]

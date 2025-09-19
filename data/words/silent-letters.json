@@ -1,0 +1,122 @@
+[
+
+  {"word":"island","meaning":"A piece of land surrounded by water.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"thumb","meaning":"The short, thick first digit of the human hand.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"wrist","meaning":"The joint connecting the hand with the forearm.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"gnash","meaning":"To grind the teeth together.","part_of_speeh":"verb","level":"easy"},
+
+  {"word":"kneel","meaning":"To rest on the knees.","part_of_speeh":"verb","level":"easy"},
+
+  {"word":"honest","meaning":"Free of deceit; truthful.","part_of_speeh":"adjective","level":"easy"},
+
+  {"word":"gnome","meaning":"A small mythological creature.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"often","meaning":"Frequently; many times.","part_of_speeh":"adverb","level":"easy"},
+
+  {"word":"castle","meaning":"A large fortified building.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"whistle","meaning":"A clear high-pitched sound made by forcing breath.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"answer","meaning":"A thing said in response to a question.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"knight","meaning":"A man awarded a non-hereditary title.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"autumn","meaning":"The season between summer and winter.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"would","meaning":"Used to indicate a future in the past.","part_of_speeh":"verb","level":"easy"},
+
+  {"word":"wedge","meaning":"A piece of wood or metal tapered to a thin edge.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"bridge","meaning":"A structure carrying a path over an obstacle.","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"debt","meaning":"Something owed (contains silent 'b').","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"doubt","meaning":"A feeling of uncertainty (silent 'b').","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"calmly","meaning":"In a peaceful manner (silent 'l').","part_of_speeh":"adverb","level":"easy"},
+
+  {"word":"ghost","meaning":"An apparition of a dead person (silent 'h').","part_of_speeh":"noun","level":"easy"},
+
+  {"word":"column","meaning":"An upright pillar (silent 'n').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"salmon","meaning":"A large edible fish (silent 'l').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"wrestle","meaning":"To engage in grappling (silent 'w').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"psychic","meaning":"Relating to the soul or mind (silent 'p').","part_of_speeh":"adjective","level":"medium"},
+
+  {"word":"mnemonic","meaning":"A device such as a pattern of letters assisting memory (silent 'm').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"glisten","meaning":"To shine with a soft light (silent 't').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"raspberry","meaning":"An edible soft red fruit (silent 'p').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"subtle","meaning":"So delicate or precise as to be difficult to analyze (silent 'b').","part_of_speeh":"adjective","level":"medium"},
+
+  {"word":"ascent","meaning":"A climb upward (silent 'c').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"descend","meaning":"To move downward (silent 'c').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"fasten","meaning":"To attach securely (silent 't').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"hazardous","meaning":"Involving risk or danger (silent 'h' historically).","part_of_speeh":"adjective","level":"medium"},
+
+  {"word":"indict","meaning":"To formally accuse (silent 'c').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"wholesome","meaning":"Conducive to good health (silent 'w').","part_of_speeh":"adjective","level":"medium"},
+
+  {"word":"gnostic","meaning":"Relating to esoteric knowledge (silent 'g').","part_of_speeh":"adjective","level":"medium"},
+
+  {"word":"knapsack","meaning":"A bag carried on the back (silent 'k').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"align","meaning":"To place in a straight line (silent 'g').","part_of_speeh":"verb","level":"medium"},
+
+  {"word":"champagne","meaning":"Sparkling wine from Champagne (silent 'g').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"fuchsia","meaning":"A vivid purplish-red color (silent 'ch' irregular).","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"aisle","meaning":"A passage between rows (silent 's').","part_of_speeh":"noun","level":"medium"},
+
+  {"word":"rendezvous","meaning":"A meeting at an agreed time and place (silent 'z').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"bourgeois","meaning":"Relating to the middle class (silent 'g' and 's').","part_of_speeh":"adjective","level":"hard"},
+
+  {"word":"chassis","meaning":"The base frame of a vehicle (silent final 's').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"colonel","meaning":"A military rank pronounced 'kernel'.","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"debacle","meaning":"A sudden disastrous failure (silent 'c').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"eponym","meaning":"A person after whom something is named (silent 'y' vowel shift).","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"heirloom","meaning":"A valuable object passed down (silent 'h').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"opossum","meaning":"A nocturnal American marsupial (silent 'o').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"phthisis","meaning":"A wasting disease, especially pulmonary tuberculosis (silent 'phth' cluster).","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"ptarmigan","meaning":"A northern grouse (silent 'p').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"ptomaine","meaning":"A poisonous compound (silent 'p').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"gnomon","meaning":"The projecting piece on a sundial (silent 'g').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"gnathic","meaning":"Relating to the jaws (silent 'g').","part_of_speeh":"adjective","level":"hard"},
+
+  {"word":"apophthegm","meaning":"A concise saying or maxim (silent 'phth').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"drachm","meaning":"An apothecaries' unit of weight (silent 'ch').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"swordsmith","meaning":"A person who forges swords (silent 'w').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"tsunami","meaning":"A long high sea wave (silent 't').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"yachtman","meaning":"A man who sails or owns a yacht (silent 'ch').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"wainscoting","meaning":"Wood paneling on lower part of walls (silent 's').","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"zeugma","meaning":"A figure of speech applying a word to multiple parts (silent 'e' irregular).","part_of_speeh":"noun","level":"hard"}
+]

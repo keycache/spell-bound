@@ -1,0 +1,123 @@
+[
+
+  {"word":"Hercules","meaning":"A divine hero famous for strength.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Athena","meaning":"Greek goddess of wisdom and warfare.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Zephyrus","meaning":"Greek god of the west wind.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Odysseus","meaning":"Hero of Homer's Odyssey known for cunning.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Hermes","meaning":"Messenger god of trade and travel.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Demeter","meaning":"Goddess of agriculture and harvest.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Poseidon","meaning":"God of the sea, earthquakes, and horses.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Artemis","meaning":"Goddess of the hunt and wilderness.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Apollo","meaning":"God of music, prophecy, and healing.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Aphrodite","meaning":"Goddess of love and beauty.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Hephaestus","meaning":"God of fire and metalworking.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Hestia","meaning":"Goddess of the hearth and domestic life.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Persephone","meaning":"Queen of the underworld and goddess of spring.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Cronus","meaning":"Leader of the first generation of Titans.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Rhadamanthus","meaning":"Judge of the dead in the underworld.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Arachne","meaning":"Mortal weaver transformed into a spider.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Theseus","meaning":"Hero who slew the Minotaur.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Bellerophon","meaning":"Hero who tamed Pegasus and slew Chimera.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Orpheus","meaning":"Musician who tried to retrieve his wife from Hades.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Penelope","meaning":"Wife of Odysseus known for loyalty.","part_of_speeh":"proper noun","level":"easy"},
+
+  {"word":"Chiron","meaning":"Wise centaur tutor of heroes.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Asclepius","meaning":"God of medicine and healing.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Eurydice","meaning":"Wife of Orpheus who died young.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Icarus","meaning":"Youth who flew too close to the sun.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Perseus","meaning":"Hero who slew Medusa.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Pandora","meaning":"First woman who opened a forbidden jar.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Narcissus","meaning":"Youth who fell in love with his own reflection.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Daedalus","meaning":"Inventor and father of Icarus.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Eurystheus","meaning":"King who imposed the labors on Hercules.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Aegeus","meaning":"Father of Theseus and king of Athens.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Ganymede","meaning":"Beautiful youth abducted by Zeus.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Hippolyta","meaning":"Queen of the Amazons.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Leda","meaning":"Queen seduced by Zeus in swan form.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Antigone","meaning":"Tragic heroine who defied a king.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Phaethon","meaning":"Youth who lost control of the sun chariot.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Calypso","meaning":"Nymph who detained Odysseus.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Circe","meaning":"Sorceress who transformed men into animals.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Ariadne","meaning":"Daughter of Minos who aided Theseus.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Hecate","meaning":"Goddess associated with magic and crossroads.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Morpheus","meaning":"God of dreams and sleep.","part_of_speeh":"proper noun","level":"medium"},
+
+  {"word":"Tiresias","meaning":"Blind prophet of Thebes.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Eleusinia","meaning":"Pertaining to the Eleusinian mysteries.","part_of_speeh":"adjective","level":"hard"},
+
+  {"word":"Hephaestion","meaning":"Companion of Alexander linked to mythic heroism.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Erechtheus","meaning":"Legendary early king of Athens.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Clytemnestra","meaning":"Wife of Agamemnon who plotted his death.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Aeschylus","meaning":"Ancient tragedian with mythic themes.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Eumenides","meaning":"The Furies as kindly goddesses.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Mnemosyne","meaning":"Titaness of memory.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Thersites","meaning":"Ugly soldier known for insolence.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Hypsipyle","meaning":"Mythic queen who aided Argonauts.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Laodicea","meaning":"Name borne by Hellenistic queens.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Aeschines","meaning":"Orator associated with mythic narratives.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Amphictyony","meaning":"Ancient religious association of Greek tribes.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Chimaeridae","meaning":"Family name referencing mythic Chimera.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Erebus","meaning":"Personification of primordial darkness.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Etymologicum","meaning":"Ancient lexicon of mythic terms.","part_of_speeh":"noun","level":"hard"},
+
+  {"word":"Philostratus","meaning":"Ancient author drawing on mythic biography.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Pythagoreans","meaning":"Followers of Pythagoras blending myth and number.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Triptolemus","meaning":"Demeter's protégé who spread agriculture.","part_of_speeh":"proper noun","level":"hard"},
+
+  {"word":"Xanthippe","meaning":"Wife of Socrates (referenced in classical lore).","part_of_speeh":"proper noun","level":"hard"}
+
+]
