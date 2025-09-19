@@ -1,122 +1,122 @@
 [
 
-  {"word":"action","meaning":"The fact or process of doing something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"action","meaning":"The fact or process of doing something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"motion","meaning":"The process of moving.","part_of_speeh":"noun","level":"easy"},
+  {"word":"motion","meaning":"The process of moving.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"nation","meaning":"A large body of people united by common descent, history, culture, or language.","part_of_speeh":"noun","level":"easy"},
+  {"word":"nation","meaning":"A large body of people united by common descent, history, culture, or language.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"station","meaning":"A regular stopping place on a public transportation route.","part_of_speeh":"noun","level":"easy"},
+  {"word":"station","meaning":"A regular stopping place on a public transportation route.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"vision","meaning":"The faculty of sight.","part_of_speeh":"noun","level":"easy"},
+  {"word":"vision","meaning":"The faculty of sight.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"fusion","meaning":"The process of joining two or more things into one.","part_of_speeh":"noun","level":"easy"},
+  {"word":"fusion","meaning":"The process of joining two or more things into one.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"tension","meaning":"The state of being stretched tight.","part_of_speeh":"noun","level":"easy"},
+  {"word":"tension","meaning":"The state of being stretched tight.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"question","meaning":"A sentence worded or expressed to elicit information.","part_of_speeh":"noun","level":"easy"},
+  {"word":"question","meaning":"A sentence worded or expressed to elicit information.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"section","meaning":"A distinct part of something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"section","meaning":"A distinct part of something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"fiction","meaning":"Literature that describes imaginary events and people.","part_of_speeh":"noun","level":"easy"},
+  {"word":"fiction","meaning":"Literature that describes imaginary events and people.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"pension","meaning":"A regular payment made during retirement.","part_of_speeh":"noun","level":"easy"},
+  {"word":"pension","meaning":"A regular payment made during retirement.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"mansion","meaning":"A large impressive house.","part_of_speeh":"noun","level":"easy"},
+  {"word":"mansion","meaning":"A large impressive house.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"portion","meaning":"A part of a whole.","part_of_speeh":"noun","level":"easy"},
+  {"word":"portion","meaning":"A part of a whole.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"caption","meaning":"A title or brief explanation of an illustration.","part_of_speeh":"noun","level":"easy"},
+  {"word":"caption","meaning":"A title or brief explanation of an illustration.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"cushion","meaning":"A soft pillow or pad.","part_of_speeh":"noun","level":"easy"},
+  {"word":"cushion","meaning":"A soft pillow or pad.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"mission","meaning":"An important assignment.","part_of_speeh":"noun","level":"easy"},
+  {"word":"mission","meaning":"An important assignment.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"revision","meaning":"The action of revising.","part_of_speeh":"noun","level":"easy"},
+  {"word":"revision","meaning":"The action of revising.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"erosion","meaning":"Process of eroding or being eroded by wind, water, or other agents.","part_of_speeh":"noun","level":"easy"},
+  {"word":"erosion","meaning":"Process of eroding or being eroded by wind, water, or other agents.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"explosion","meaning":"A violent and destructive shattering.","part_of_speeh":"noun","level":"easy"},
+  {"word":"explosion","meaning":"A violent and destructive shattering.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"election","meaning":"A formal and organized process of electing.","part_of_speeh":"noun","level":"easy"},
+  {"word":"election","meaning":"A formal and organized process of electing.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"adhesion","meaning":"The action or process of adhering.","part_of_speeh":"noun","level":"medium"},
+  {"word":"adhesion","meaning":"The action or process of adhering.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"allusion","meaning":"An indirect reference.","part_of_speeh":"noun","level":"medium"},
+  {"word":"allusion","meaning":"An indirect reference.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"cohesion","meaning":"The action or fact of forming a united whole.","part_of_speeh":"noun","level":"medium"},
+  {"word":"cohesion","meaning":"The action or fact of forming a united whole.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"collision","meaning":"An instance of one moving object striking another.","part_of_speeh":"noun","level":"medium"},
+  {"word":"collision","meaning":"An instance of one moving object striking another.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"concision","meaning":"Quality of being brief but comprehensive.","part_of_speeh":"noun","level":"medium"},
+  {"word":"concision","meaning":"Quality of being brief but comprehensive.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"contention","meaning":"Heated disagreement.","part_of_speeh":"noun","level":"medium"},
+  {"word":"contention","meaning":"Heated disagreement.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"corrosion","meaning":"Gradual destruction of materials by chemical reaction.","part_of_speeh":"noun","level":"medium"},
+  {"word":"corrosion","meaning":"Gradual destruction of materials by chemical reaction.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"digestion","meaning":"Process of breaking down food.","part_of_speeh":"noun","level":"medium"},
+  {"word":"digestion","meaning":"Process of breaking down food.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"diffusion","meaning":"Spreading of something widely.","part_of_speeh":"noun","level":"medium"},
+  {"word":"diffusion","meaning":"Spreading of something widely.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"emulsion","meaning":"A fine dispersion of minute droplets.","part_of_speeh":"noun","level":"medium"},
+  {"word":"emulsion","meaning":"A fine dispersion of minute droplets.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"immersion","meaning":"The action of immersing someone or something in a liquid.","part_of_speeh":"noun","level":"medium"},
+  {"word":"immersion","meaning":"The action of immersing someone or something in a liquid.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"inversion","meaning":"The action of inverting something.","part_of_speeh":"noun","level":"medium"},
+  {"word":"inversion","meaning":"The action of inverting something.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"inclusion","meaning":"The action or state of including.","part_of_speeh":"noun","level":"medium"},
+  {"word":"inclusion","meaning":"The action or state of including.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"intrusion","meaning":"An act of intruding.","part_of_speeh":"noun","level":"medium"},
+  {"word":"intrusion","meaning":"An act of intruding.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"intension","meaning":"The internal content of a concept.","part_of_speeh":"noun","level":"medium"},
+  {"word":"intension","meaning":"The internal content of a concept.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"induction","meaning":"Process of bringing about or giving rise to something.","part_of_speeh":"noun","level":"medium"},
+  {"word":"induction","meaning":"Process of bringing about or giving rise to something.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"infusion","meaning":"A drink made by infusing leaves or herbs.","part_of_speeh":"noun","level":"medium"},
+  {"word":"infusion","meaning":"A drink made by infusing leaves or herbs.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"occlusion","meaning":"The blockage or closing of a blood vessel.","part_of_speeh":"noun","level":"medium"},
+  {"word":"occlusion","meaning":"The blockage or closing of a blood vessel.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"proration","meaning":"Dividing or distributing proportionally.","part_of_speeh":"noun","level":"medium"},
+  {"word":"proration","meaning":"Dividing or distributing proportionally.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"retention","meaning":"The continued possession of something.","part_of_speeh":"noun","level":"medium"},
+  {"word":"retention","meaning":"The continued possession of something.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"agglutination","meaning":"Clumping of particles.","part_of_speeh":"noun","level":"hard"},
+  {"word":"agglutination","meaning":"Clumping of particles.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"capitulation","meaning":"The action of surrendering.","part_of_speeh":"noun","level":"hard"},
+  {"word":"capitulation","meaning":"The action of surrendering.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"circumlocution","meaning":"Use of many words where fewer would do.","part_of_speeh":"noun","level":"hard"},
+  {"word":"circumlocution","meaning":"Use of many words where fewer would do.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"contradiction","meaning":"Combination of ideas that are opposed.","part_of_speeh":"noun","level":"hard"},
+  {"word":"contradiction","meaning":"Combination of ideas that are opposed.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"denunciation","meaning":"Public condemnation of someone or something.","part_of_speeh":"noun","level":"hard"},
+  {"word":"denunciation","meaning":"Public condemnation of someone or something.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"disquisition","meaning":"A long or elaborate essay or discussion.","part_of_speeh":"noun","level":"hard"},
+  {"word":"disquisition","meaning":"A long or elaborate essay or discussion.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"dissemination","meaning":"The act of spreading something widely.","part_of_speeh":"noun","level":"hard"},
+  {"word":"dissemination","meaning":"The act of spreading something widely.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"extrapolation","meaning":"Estimating beyond the original observation range.","part_of_speeh":"noun","level":"hard"},
+  {"word":"extrapolation","meaning":"Estimating beyond the original observation range.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"hieroglyphic","meaning":"Written in pictorial symbols.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"hieroglyphic","meaning":"Written in pictorial symbols.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"interpolation","meaning":"Insertion of something between other things.","part_of_speeh":"noun","level":"hard"},
+  {"word":"interpolation","meaning":"Insertion of something between other things.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"misconstruction","meaning":"Wrong interpretation of something.","part_of_speeh":"noun","level":"hard"},
+  {"word":"misconstruction","meaning":"Wrong interpretation of something.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"misrepresentation","meaning":"False or misleading account.","part_of_speeh":"noun","level":"hard"},
+  {"word":"misrepresentation","meaning":"False or misleading account.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"obfuscation","meaning":"The action of making something obscure.","part_of_speeh":"noun","level":"hard"},
+  {"word":"obfuscation","meaning":"The action of making something obscure.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"overconsumption","meaning":"Excessive use of a resource.","part_of_speeh":"noun","level":"hard"},
+  {"word":"overconsumption","meaning":"Excessive use of a resource.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"personification","meaning":"Attribution of a personal nature to something nonhuman.","part_of_speeh":"noun","level":"hard"},
+  {"word":"personification","meaning":"Attribution of a personal nature to something nonhuman.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"precipitation","meaning":"Rain, snow, sleet, or hail that falls.","part_of_speeh":"noun","level":"hard"},
+  {"word":"precipitation","meaning":"Rain, snow, sleet, or hail that falls.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"reconfiguration","meaning":"The arrangement of something into a new form.","part_of_speeh":"noun","level":"hard"},
+  {"word":"reconfiguration","meaning":"The arrangement of something into a new form.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"retransmission","meaning":"Sending again.","part_of_speeh":"noun","level":"hard"},
+  {"word":"retransmission","meaning":"Sending again.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"transfiguration","meaning":"A complete change of form.","part_of_speeh":"noun","level":"hard"},
+  {"word":"transfiguration","meaning":"A complete change of form.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"undervaluation","meaning":"The act of assigning too low a value.","part_of_speeh":"noun","level":"hard"}
+  {"word":"undervaluation","meaning":"The act of assigning too low a value.","part_of_speech":"noun","level":"hard"}
 ]

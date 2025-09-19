@@ -1,122 +1,122 @@
 [
 
-  {"word":"metaphor","meaning":"A figure of speech comparing two unlike things without using like or as.","part_of_speeh":"noun","level":"easy"},
+  {"word":"metaphor","meaning":"A figure of speech comparing two unlike things without using like or as.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"imagery","meaning":"Visually descriptive language.","part_of_speeh":"noun","level":"easy"},
+  {"word":"imagery","meaning":"Visually descriptive language.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"narrator","meaning":"The person who tells a story.","part_of_speeh":"noun","level":"easy"},
+  {"word":"narrator","meaning":"The person who tells a story.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"dialogue","meaning":"Conversation between two or more characters.","part_of_speeh":"noun","level":"easy"},
+  {"word":"dialogue","meaning":"Conversation between two or more characters.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"stanza","meaning":"A grouped set of lines in a poem.","part_of_speeh":"noun","level":"easy"},
+  {"word":"stanza","meaning":"A grouped set of lines in a poem.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"setting","meaning":"The time and place of a story.","part_of_speeh":"noun","level":"easy"},
+  {"word":"setting","meaning":"The time and place of a story.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"foreshadow","meaning":"To indicate or hint at a future event.","part_of_speeh":"verb","level":"easy"},
+  {"word":"foreshadow","meaning":"To indicate or hint at a future event.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"allusion","meaning":"A reference to another work or idea.","part_of_speeh":"noun","level":"easy"},
+  {"word":"allusion","meaning":"A reference to another work or idea.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"conflict","meaning":"A struggle between opposing forces.","part_of_speeh":"noun","level":"easy"},
+  {"word":"conflict","meaning":"A struggle between opposing forces.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"hyperbole","meaning":"Exaggerated statements not meant to be taken literally.","part_of_speeh":"noun","level":"easy"},
+  {"word":"hyperbole","meaning":"Exaggerated statements not meant to be taken literally.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"character","meaning":"A person or being in a story.","part_of_speeh":"noun","level":"easy"},
+  {"word":"character","meaning":"A person or being in a story.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"plotline","meaning":"The main sequence of events in a narrative.","part_of_speeh":"noun","level":"easy"},
+  {"word":"plotline","meaning":"The main sequence of events in a narrative.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"epilogue","meaning":"A section at the end of a book or play that serves as a conclusion.","part_of_speeh":"noun","level":"easy"},
+  {"word":"epilogue","meaning":"A section at the end of a book or play that serves as a conclusion.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"genre","meaning":"A category of artistic composition.","part_of_speeh":"noun","level":"easy"},
+  {"word":"genre","meaning":"A category of artistic composition.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"prologue","meaning":"An opening section of a literary work.","part_of_speeh":"noun","level":"easy"},
+  {"word":"prologue","meaning":"An opening section of a literary work.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"premise","meaning":"A previous statement from which another is inferred.","part_of_speeh":"noun","level":"easy"},
+  {"word":"premise","meaning":"A previous statement from which another is inferred.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"parable","meaning":"A simple story used to illustrate a moral lesson.","part_of_speeh":"noun","level":"easy"},
+  {"word":"parable","meaning":"A simple story used to illustrate a moral lesson.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"synopsis","meaning":"A brief summary of something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"synopsis","meaning":"A brief summary of something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"subplot","meaning":"A secondary or subordinate plot.","part_of_speeh":"noun","level":"easy"},
+  {"word":"subplot","meaning":"A secondary or subordinate plot.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"villanelle","meaning":"A nineteen-line poetic form with two refrains.","part_of_speeh":"noun","level":"easy"},
+  {"word":"villanelle","meaning":"A nineteen-line poetic form with two refrains.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"allegory","meaning":"A story that can be interpreted to reveal a hidden meaning.","part_of_speeh":"noun","level":"medium"},
+  {"word":"allegory","meaning":"A story that can be interpreted to reveal a hidden meaning.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"antagonist","meaning":"A character who opposes the protagonist.","part_of_speeh":"noun","level":"medium"},
+  {"word":"antagonist","meaning":"A character who opposes the protagonist.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"archetype","meaning":"A very typical example of a certain person or thing.","part_of_speeh":"noun","level":"medium"},
+  {"word":"archetype","meaning":"A very typical example of a certain person or thing.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"catharsis","meaning":"Emotional release through art.","part_of_speeh":"noun","level":"medium"},
+  {"word":"catharsis","meaning":"Emotional release through art.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"denouement","meaning":"The final part of a play where matters are resolved.","part_of_speeh":"noun","level":"medium"},
+  {"word":"denouement","meaning":"The final part of a play where matters are resolved.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"juxtapose","meaning":"Place side by side for contrast.","part_of_speeh":"verb","level":"medium"},
+  {"word":"juxtapose","meaning":"Place side by side for contrast.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"motif","meaning":"A recurring element in a literary work.","part_of_speeh":"noun","level":"medium"},
+  {"word":"motif","meaning":"A recurring element in a literary work.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"monologue","meaning":"A long speech by one actor.","part_of_speeh":"noun","level":"medium"},
+  {"word":"monologue","meaning":"A long speech by one actor.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"onomatopoeia","meaning":"A word formed to imitate a sound.","part_of_speeh":"noun","level":"medium"},
+  {"word":"onomatopoeia","meaning":"A word formed to imitate a sound.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"portmanteau","meaning":"A word blending sounds and combining meanings.","part_of_speeh":"noun","level":"medium"},
+  {"word":"portmanteau","meaning":"A word blending sounds and combining meanings.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"quadrivium","meaning":"The medieval curriculum of arithmetic, geometry, music, and astronomy.","part_of_speeh":"noun","level":"medium"},
+  {"word":"quadrivium","meaning":"The medieval curriculum of arithmetic, geometry, music, and astronomy.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"rhapsodic","meaning":"Extravagantly enthusiastic; ecstatic.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"rhapsodic","meaning":"Extravagantly enthusiastic; ecstatic.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"symbolism","meaning":"Use of symbols to represent ideas.","part_of_speeh":"noun","level":"medium"},
+  {"word":"symbolism","meaning":"Use of symbols to represent ideas.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"synecdoche","meaning":"A figure of speech in which a part represents the whole.","part_of_speeh":"noun","level":"medium"},
+  {"word":"synecdoche","meaning":"A figure of speech in which a part represents the whole.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"tapestry","meaning":"A piece of thick textile fabric with designs.","part_of_speeh":"noun","level":"medium"},
+  {"word":"tapestry","meaning":"A piece of thick textile fabric with designs.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"tragedian","meaning":"An actor specializing in tragic roles.","part_of_speeh":"noun","level":"medium"},
+  {"word":"tragedian","meaning":"An actor specializing in tragic roles.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"verisimilar","meaning":"Appearing to be true or real.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"verisimilar","meaning":"Appearing to be true or real.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"zeitgeist","meaning":"The defining spirit or mood of a period.","part_of_speeh":"noun","level":"medium"},
+  {"word":"zeitgeist","meaning":"The defining spirit or mood of a period.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"ellipses","meaning":"Plural of ellipsis (omission of words).","part_of_speeh":"noun","level":"medium"},
+  {"word":"ellipses","meaning":"Plural of ellipsis (omission of words).","part_of_speech":"noun","level":"medium"},
 
-  {"word":"elegiac","meaning":"Relating to an elegy; expressing sorrow.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"elegiac","meaning":"Relating to an elegy; expressing sorrow.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"bildungsroman","meaning":"A novel about the formative years of the main character.","part_of_speeh":"noun","level":"hard"},
+  {"word":"bildungsroman","meaning":"A novel about the formative years of the main character.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"intertextuality","meaning":"Relationship between texts, especially literary ones.","part_of_speeh":"noun","level":"hard"},
+  {"word":"intertextuality","meaning":"Relationship between texts, especially literary ones.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"metafiction","meaning":"Fiction that self-consciously addresses the devices of fiction.","part_of_speeh":"noun","level":"hard"},
+  {"word":"metafiction","meaning":"Fiction that self-consciously addresses the devices of fiction.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"anagnorisis","meaning":"The point in a play when a principal character recognizes a truth.","part_of_speeh":"noun","level":"hard"},
+  {"word":"anagnorisis","meaning":"The point in a play when a principal character recognizes a truth.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"aposiopesis","meaning":"A sudden breaking off in speech.","part_of_speeh":"noun","level":"hard"},
+  {"word":"aposiopesis","meaning":"A sudden breaking off in speech.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"prosopopoeia","meaning":"A figure of speech in which an abstract thing is personified.","part_of_speeh":"noun","level":"hard"},
+  {"word":"prosopopoeia","meaning":"A figure of speech in which an abstract thing is personified.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"metalepsis","meaning":"Figure of speech in which a word refers to a thing indirectly through multiple steps of meaning.","part_of_speeh":"noun","level":"hard"},
+  {"word":"metalepsis","meaning":"Figure of speech in which a word refers to a thing indirectly through multiple steps of meaning.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"hermeneutics","meaning":"Theory and methodology of interpretation, especially scripture.","part_of_speeh":"noun","level":"hard"},
+  {"word":"hermeneutics","meaning":"Theory and methodology of interpretation, especially scripture.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"invagination","meaning":"The action of being turned inside out or folded back on itself.","part_of_speeh":"noun","level":"hard"},
+  {"word":"invagination","meaning":"The action of being turned inside out or folded back on itself.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"palimpsestic","meaning":"Relating to something reused or altered but still bearing visible traces of its earlier form.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"palimpsestic","meaning":"Relating to something reused or altered but still bearing visible traces of its earlier form.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"interpellation","meaning":"The process of being addressed into social categories.","part_of_speeh":"noun","level":"hard"},
+  {"word":"interpellation","meaning":"The process of being addressed into social categories.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"hagiographic","meaning":"Excessively flattering toward a subject of biography.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"hagiographic","meaning":"Excessively flattering toward a subject of biography.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"anacoluthon","meaning":"A sentence that lacks grammatical sequence.","part_of_speeh":"noun","level":"hard"},
+  {"word":"anacoluthon","meaning":"A sentence that lacks grammatical sequence.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"zeugmatic","meaning":"Relating to a figure of speech applying a word to multiple parts.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"zeugmatic","meaning":"Relating to a figure of speech applying a word to multiple parts.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"heteroglossia","meaning":"Presence of multiple voices or styles in a text.","part_of_speeh":"noun","level":"hard"},
+  {"word":"heteroglossia","meaning":"Presence of multiple voices or styles in a text.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"archipelagically","meaning":"In a manner relating to a group of islands (used metaphorically).","part_of_speeh":"adverb","level":"hard"},
+  {"word":"archipelagically","meaning":"In a manner relating to a group of islands (used metaphorically).","part_of_speech":"adverb","level":"hard"},
 
-  {"word":"diegesis","meaning":"Narrative or plot, especially the telling of events in a story.","part_of_speeh":"noun","level":"hard"},
+  {"word":"diegesis","meaning":"Narrative or plot, especially the telling of events in a story.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"paradigmatic","meaning":"Serving as a typical example or pattern.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"paradigmatic","meaning":"Serving as a typical example or pattern.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"semiosis","meaning":"The process by which something functions as a sign.","part_of_speeh":"noun","level":"hard"},
+  {"word":"semiosis","meaning":"The process by which something functions as a sign.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"interdiscursivity","meaning":"Interaction of multiple discourses within a text.","part_of_speeh":"noun","level":"hard"}
+  {"word":"interdiscursivity","meaning":"Interaction of multiple discourses within a text.","part_of_speech":"noun","level":"hard"}
 ]

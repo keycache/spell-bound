@@ -1,122 +1,122 @@
 [
 
-  {"word":"atomics","meaning":"Relating to atoms.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"atomics","meaning":"Relating to atoms.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"gravity","meaning":"The force that attracts a body toward the center of the earth.","part_of_speeh":"noun","level":"easy"},
+  {"word":"gravity","meaning":"The force that attracts a body toward the center of the earth.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"protein","meaning":"A molecule composed of amino acids.","part_of_speeh":"noun","level":"easy"},
+  {"word":"protein","meaning":"A molecule composed of amino acids.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"ecosystem","meaning":"A biological community of interacting organisms and their environment.","part_of_speeh":"noun","level":"easy"},
+  {"word":"ecosystem","meaning":"A biological community of interacting organisms and their environment.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"molecule","meaning":"A group of atoms bonded together.","part_of_speeh":"noun","level":"easy"},
+  {"word":"molecule","meaning":"A group of atoms bonded together.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"habitat","meaning":"The natural home of an organism.","part_of_speeh":"noun","level":"easy"},
+  {"word":"habitat","meaning":"The natural home of an organism.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"current","meaning":"A flow of electricity or water.","part_of_speeh":"noun","level":"easy"},
+  {"word":"current","meaning":"A flow of electricity or water.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"freezing","meaning":"Becoming ice or another solid form.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"freezing","meaning":"Becoming ice or another solid form.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"crystal","meaning":"A solid with a regular repeated structure.","part_of_speeh":"noun","level":"easy"},
+  {"word":"crystal","meaning":"A solid with a regular repeated structure.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"battery","meaning":"A device that stores and supplies electricity.","part_of_speeh":"noun","level":"easy"},
+  {"word":"battery","meaning":"A device that stores and supplies electricity.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"samples","meaning":"A small part intended to show the whole.","part_of_speeh":"noun","level":"easy"},
+  {"word":"samples","meaning":"A small part intended to show the whole.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"balance","meaning":"An even distribution of weight.","part_of_speeh":"noun","level":"easy"},
+  {"word":"balance","meaning":"An even distribution of weight.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"observe","meaning":"To notice or perceive.","part_of_speeh":"verb","level":"easy"},
+  {"word":"observe","meaning":"To notice or perceive.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"diagram","meaning":"A simplified drawing showing structure.","part_of_speeh":"noun","level":"easy"},
+  {"word":"diagram","meaning":"A simplified drawing showing structure.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"density","meaning":"Mass per unit volume.","part_of_speeh":"noun","level":"easy"},
+  {"word":"density","meaning":"Mass per unit volume.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"weather","meaning":"The state of the atmosphere at a place and time.","part_of_speeh":"noun","level":"easy"},
+  {"word":"weather","meaning":"The state of the atmosphere at a place and time.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"balance","meaning":"To keep or put something in a steady position.","part_of_speeh":"verb","level":"easy"},
+  {"word":"balance","meaning":"To keep or put something in a steady position.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"magnet","meaning":"An object that produces a magnetic field.","part_of_speeh":"noun","level":"easy"},
+  {"word":"magnet","meaning":"An object that produces a magnetic field.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"theory","meaning":"A supposition intended to explain something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"theory","meaning":"A supposition intended to explain something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"analysis","meaning":"Detailed examination of something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"analysis","meaning":"Detailed examination of something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"isomers","meaning":"Compounds with the same formula but different arrangement.","part_of_speeh":"noun","level":"medium"},
+  {"word":"isomers","meaning":"Compounds with the same formula but different arrangement.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"catalyst","meaning":"A substance that increases reaction rate without being consumed.","part_of_speeh":"noun","level":"medium"},
+  {"word":"catalyst","meaning":"A substance that increases reaction rate without being consumed.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"inertia","meaning":"A property of matter that resists change in motion.","part_of_speeh":"noun","level":"medium"},
+  {"word":"inertia","meaning":"A property of matter that resists change in motion.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"electron","meaning":"A subatomic particle with negative charge.","part_of_speeh":"noun","level":"medium"},
+  {"word":"electron","meaning":"A subatomic particle with negative charge.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"momentum","meaning":"Mass in motion; product of mass and velocity.","part_of_speeh":"noun","level":"medium"},
+  {"word":"momentum","meaning":"Mass in motion; product of mass and velocity.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"respiration","meaning":"Process of inhaling oxygen and exhaling carbon dioxide.","part_of_speeh":"noun","level":"medium"},
+  {"word":"respiration","meaning":"Process of inhaling oxygen and exhaling carbon dioxide.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"osmosis","meaning":"Movement of water across a semipermeable membrane.","part_of_speeh":"noun","level":"medium"},
+  {"word":"osmosis","meaning":"Movement of water across a semipermeable membrane.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"quantum","meaning":"The minimum amount of energy involved in an interaction.","part_of_speeh":"noun","level":"medium"},
+  {"word":"quantum","meaning":"The minimum amount of energy involved in an interaction.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"solubility","meaning":"Ability of a substance to dissolve.","part_of_speeh":"noun","level":"medium"},
+  {"word":"solubility","meaning":"Ability of a substance to dissolve.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"cytoplasm","meaning":"The material within a living cell excluding the nucleus.","part_of_speeh":"noun","level":"medium"},
+  {"word":"cytoplasm","meaning":"The material within a living cell excluding the nucleus.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"petrology","meaning":"Study of rocks.","part_of_speeh":"noun","level":"medium"},
+  {"word":"petrology","meaning":"Study of rocks.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"virology","meaning":"Study of viruses.","part_of_speeh":"noun","level":"medium"},
+  {"word":"virology","meaning":"Study of viruses.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"taxonomy","meaning":"Science of classification of organisms.","part_of_speeh":"noun","level":"medium"},
+  {"word":"taxonomy","meaning":"Science of classification of organisms.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"geophysics","meaning":"Physics of the earth.","part_of_speeh":"noun","level":"medium"},
+  {"word":"geophysics","meaning":"Physics of the earth.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"cryobiology","meaning":"Study of the effects of low temperatures on organisms.","part_of_speeh":"noun","level":"medium"},
+  {"word":"cryobiology","meaning":"Study of the effects of low temperatures on organisms.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"spectroscopy","meaning":"Study of the interaction between matter and electromagnetic radiation.","part_of_speeh":"noun","level":"medium"},
+  {"word":"spectroscopy","meaning":"Study of the interaction between matter and electromagnetic radiation.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"bioenergetics","meaning":"Study of energy flow through living systems.","part_of_speeh":"noun","level":"medium"},
+  {"word":"bioenergetics","meaning":"Study of energy flow through living systems.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"cytogenetics","meaning":"Study of chromosomes and cell heredity.","part_of_speeh":"noun","level":"medium"},
+  {"word":"cytogenetics","meaning":"Study of chromosomes and cell heredity.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"electrolysis","meaning":"Chemical decomposition by passing electric current.","part_of_speeh":"noun","level":"medium"},
+  {"word":"electrolysis","meaning":"Chemical decomposition by passing electric current.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"enthalpy","meaning":"Total heat content of a system.","part_of_speeh":"noun","level":"medium"},
+  {"word":"enthalpy","meaning":"Total heat content of a system.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"photosynthesis","meaning":"Process by which plants convert light to chemical energy.","part_of_speeh":"noun","level":"hard"},
+  {"word":"photosynthesis","meaning":"Process by which plants convert light to chemical energy.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"deoxyribonucleic","meaning":"Relating to DNA.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"deoxyribonucleic","meaning":"Relating to DNA.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"bioaccumulation","meaning":"Gradual buildup of substances in an organism.","part_of_speeh":"noun","level":"hard"},
+  {"word":"bioaccumulation","meaning":"Gradual buildup of substances in an organism.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"homeostasis","meaning":"Tendency to maintain internal stability.","part_of_speeh":"noun","level":"hard"},
+  {"word":"homeostasis","meaning":"Tendency to maintain internal stability.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"electrophoresis","meaning":"Movement of charged particles in a fluid under an electric field.","part_of_speeh":"noun","level":"hard"},
+  {"word":"electrophoresis","meaning":"Movement of charged particles in a fluid under an electric field.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"immunofluorescence","meaning":"Technique using fluorescent antibodies to detect substances.","part_of_speeh":"noun","level":"hard"},
+  {"word":"immunofluorescence","meaning":"Technique using fluorescent antibodies to detect substances.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"ultracentrifugation","meaning":"Separation of particles at very high speed centrifugation.","part_of_speeh":"noun","level":"hard"},
+  {"word":"ultracentrifugation","meaning":"Separation of particles at very high speed centrifugation.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"thermoregulatory","meaning":"Relating to regulation of body temperature.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"thermoregulatory","meaning":"Relating to regulation of body temperature.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"electrocardiogram","meaning":"A record of heart's electrical activity.","part_of_speeh":"noun","level":"hard"},
+  {"word":"electrocardiogram","meaning":"A record of heart's electrical activity.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"immunocytochemistry","meaning":"Technique for detecting cellular components using antibodies.","part_of_speeh":"noun","level":"hard"},
+  {"word":"immunocytochemistry","meaning":"Technique for detecting cellular components using antibodies.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"organophosphorus","meaning":"Relating to organic compounds containing phosphorus.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"organophosphorus","meaning":"Relating to organic compounds containing phosphorus.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"microencapsulation","meaning":"Process of enclosing substances in microscopic capsules.","part_of_speeh":"noun","level":"hard"},
+  {"word":"microencapsulation","meaning":"Process of enclosing substances in microscopic capsules.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"spectrophotometry","meaning":"Measurement of light absorption by substances.","part_of_speeh":"noun","level":"hard"},
+  {"word":"spectrophotometry","meaning":"Measurement of light absorption by substances.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"transdifferentiation","meaning":"Conversion of one cell type to another.","part_of_speeh":"noun","level":"hard"},
+  {"word":"transdifferentiation","meaning":"Conversion of one cell type to another.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"neurotransmitter","meaning":"A chemical messenger that carries signals across synapses.","part_of_speeh":"noun","level":"hard"},
+  {"word":"neurotransmitter","meaning":"A chemical messenger that carries signals across synapses.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"bioluminescence","meaning":"Light produced by a chemical reaction within a living organism.","part_of_speeh":"noun","level":"hard"},
+  {"word":"bioluminescence","meaning":"Light produced by a chemical reaction within a living organism.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"nanofabrication","meaning":"Design and manufacture of devices at the nanometer scale.","part_of_speeh":"noun","level":"hard"},
+  {"word":"nanofabrication","meaning":"Design and manufacture of devices at the nanometer scale.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"photolithography","meaning":"Process of transferring patterns onto a surface using light.","part_of_speeh":"noun","level":"hard"},
+  {"word":"photolithography","meaning":"Process of transferring patterns onto a surface using light.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"magnetohydrodynamics","meaning":"Study of magnetic properties of electrically conducting fluids.","part_of_speeh":"noun","level":"hard"},
+  {"word":"magnetohydrodynamics","meaning":"Study of magnetic properties of electrically conducting fluids.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"epidemiological","meaning":"Relating to the branch of medicine that deals with disease incidence.","part_of_speeh":"adjective","level":"hard"}
+  {"word":"epidemiological","meaning":"Relating to the branch of medicine that deals with disease incidence.","part_of_speech":"adjective","level":"hard"}
 ]

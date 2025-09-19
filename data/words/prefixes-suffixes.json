@@ -1,121 +1,121 @@
 [
-  {"word":"careless","meaning":"Not giving sufficient attention or thought to avoiding harm.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"careless","meaning":"Not giving sufficient attention or thought to avoiding harm.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"fearless","meaning":"Without fear.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"fearless","meaning":"Without fear.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"playful","meaning":"Full of play or fun.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"playful","meaning":"Full of play or fun.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"kindness","meaning":"The quality of being friendly and considerate.","part_of_speeh":"noun","level":"easy"},
+  {"word":"kindness","meaning":"The quality of being friendly and considerate.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"slowly","meaning":"At a slow speed.","part_of_speeh":"adverb","level":"easy"},
+  {"word":"slowly","meaning":"At a slow speed.","part_of_speech":"adverb","level":"easy"},
 
-  {"word":"teacher","meaning":"A person who teaches.","part_of_speeh":"noun","level":"easy"},
+  {"word":"teacher","meaning":"A person who teaches.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"runner","meaning":"A person who runs.","part_of_speeh":"noun","level":"easy"},
+  {"word":"runner","meaning":"A person who runs.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"joyful","meaning":"Feeling or expressing great happiness.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"joyful","meaning":"Feeling or expressing great happiness.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"quickly","meaning":"At a fast speed.","part_of_speeh":"adverb","level":"easy"},
+  {"word":"quickly","meaning":"At a fast speed.","part_of_speech":"adverb","level":"easy"},
 
-  {"word":"happiness","meaning":"The state of being happy.","part_of_speeh":"noun","level":"easy"},
+  {"word":"happiness","meaning":"The state of being happy.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"preheat","meaning":"To heat beforehand.","part_of_speeh":"verb","level":"easy"},
+  {"word":"preheat","meaning":"To heat beforehand.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"unfair","meaning":"Not based on or behaving according to the principles of equality.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"unfair","meaning":"Not based on or behaving according to the principles of equality.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"rewrite","meaning":"To write again so as to alter or improve.","part_of_speeh":"verb","level":"easy"},
+  {"word":"rewrite","meaning":"To write again so as to alter or improve.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"helpful","meaning":"Giving or ready to give help.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"helpful","meaning":"Giving or ready to give help.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"darkness","meaning":"The partial or total absence of light.","part_of_speeh":"noun","level":"easy"},
+  {"word":"darkness","meaning":"The partial or total absence of light.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"builder","meaning":"A person who constructs something.","part_of_speeh":"noun","level":"easy"},
+  {"word":"builder","meaning":"A person who constructs something.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"hopeful","meaning":"Feeling or inspiring optimism.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"hopeful","meaning":"Feeling or inspiring optimism.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"painful","meaning":"Causing pain.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"painful","meaning":"Causing pain.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"endless","meaning":"Having no end.","part_of_speeh":"adjective","level":"easy"},
+  {"word":"endless","meaning":"Having no end.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"madness","meaning":"The state of being mentally ill or extremely foolish.","part_of_speeh":"noun","level":"easy"},
+  {"word":"madness","meaning":"The state of being mentally ill or extremely foolish.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"disagree","meaning":"To have or express a different opinion.","part_of_speeh":"verb","level":"medium"},
+  {"word":"disagree","meaning":"To have or express a different opinion.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"misplace","meaning":"To put something where it cannot be readily found.","part_of_speeh":"verb","level":"medium"},
+  {"word":"misplace","meaning":"To put something where it cannot be readily found.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"unspoken","meaning":"Not expressed in speech.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"unspoken","meaning":"Not expressed in speech.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"reaction","meaning":"An action performed in response to a situation.","part_of_speeh":"noun","level":"medium"},
+  {"word":"reaction","meaning":"An action performed in response to a situation.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"prejudge","meaning":"To judge beforehand.","part_of_speeh":"verb","level":"medium"},
+  {"word":"prejudge","meaning":"To judge beforehand.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"overload","meaning":"To load with too great a burden.","part_of_speeh":"verb","level":"medium"},
+  {"word":"overload","meaning":"To load with too great a burden.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"restless","meaning":"Unable to rest or relax.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"restless","meaning":"Unable to rest or relax.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"caregiver","meaning":"A person who provides care for someone else.","part_of_speeh":"noun","level":"medium"},
+  {"word":"caregiver","meaning":"A person who provides care for someone else.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"refund","meaning":"To pay back money.","part_of_speeh":"verb","level":"medium"},
+  {"word":"refund","meaning":"To pay back money.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"thoughtful","meaning":"Absorbed in or involving thought.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"thoughtful","meaning":"Absorbed in or involving thought.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"refreshment","meaning":"A light snack or drink.","part_of_speeh":"noun","level":"medium"},
+  {"word":"refreshment","meaning":"A light snack or drink.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"regrowth","meaning":"The process of growing again.","part_of_speeh":"noun","level":"medium"},
+  {"word":"regrowth","meaning":"The process of growing again.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"endanger","meaning":"Put at risk or in danger.","part_of_speeh":"verb","level":"medium"},
+  {"word":"endanger","meaning":"Put at risk or in danger.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"submarine","meaning":"A warship designed to operate underwater.","part_of_speeh":"noun","level":"medium"},
+  {"word":"submarine","meaning":"A warship designed to operate underwater.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"carelessness","meaning":"Failure to give sufficient attention.","part_of_speeh":"noun","level":"medium"},
+  {"word":"carelessness","meaning":"Failure to give sufficient attention.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"removable","meaning":"Able to be removed.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"removable","meaning":"Able to be removed.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"untouched","meaning":"Not affected or touched.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"untouched","meaning":"Not affected or touched.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"misguided","meaning":"Having faulty judgment or reasoning.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"misguided","meaning":"Having faulty judgment or reasoning.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"subtropic","meaning":"Relating to regions near the tropics.","part_of_speeh":"adjective","level":"medium"},
+  {"word":"subtropic","meaning":"Relating to regions near the tropics.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"preseason","meaning":"The period before the start of a season.","part_of_speeh":"noun","level":"medium"},
+  {"word":"preseason","meaning":"The period before the start of a season.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"antithesis","meaning":"A person or thing that is the direct opposite.","part_of_speeh":"noun","level":"hard"},
+  {"word":"antithesis","meaning":"A person or thing that is the direct opposite.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"circumnavigate","meaning":"To travel all the way around something.","part_of_speeh":"verb","level":"hard"},
+  {"word":"circumnavigate","meaning":"To travel all the way around something.","part_of_speech":"verb","level":"hard"},
 
-  {"word":"metamorphic","meaning":"Relating to metamorphosis or change of form.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"metamorphic","meaning":"Relating to metamorphosis or change of form.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"photosensitive","meaning":"Sensitive to light.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"photosensitive","meaning":"Sensitive to light.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"telekinesis","meaning":"Movement of objects without physical interaction.","part_of_speeh":"noun","level":"hard"},
+  {"word":"telekinesis","meaning":"Movement of objects without physical interaction.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"hyperactive","meaning":"Abnormally or extremely active.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"hyperactive","meaning":"Abnormally or extremely active.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"polycentric","meaning":"Having multiple centers.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"polycentric","meaning":"Having multiple centers.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"subterranean","meaning":"Existing below the surface of the earth.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"subterranean","meaning":"Existing below the surface of the earth.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"microbiology","meaning":"The study of microscopic organisms.","part_of_speeh":"noun","level":"hard"},
+  {"word":"microbiology","meaning":"The study of microscopic organisms.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"irreversible","meaning":"Not able to be undone.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"irreversible","meaning":"Not able to be undone.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"hallucinogenic","meaning":"Causing hallucinations.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"hallucinogenic","meaning":"Causing hallucinations.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"biodegradable","meaning":"Capable of being decomposed by bacteria.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"biodegradable","meaning":"Capable of being decomposed by bacteria.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"interplanetary","meaning":"Between planets.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"interplanetary","meaning":"Between planets.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"counterproductive","meaning":"Having the opposite of the intended effect.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"counterproductive","meaning":"Having the opposite of the intended effect.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"reconstructive","meaning":"Serving to rebuild something damaged.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"reconstructive","meaning":"Serving to rebuild something damaged.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"uncharacteristic","meaning":"Not typical of a particular person or thing.","part_of_speeh":"adjective","level":"hard"},
+  {"word":"uncharacteristic","meaning":"Not typical of a particular person or thing.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"anticoagulant","meaning":"A substance that prevents blood clotting.","part_of_speeh":"noun","level":"hard"},
+  {"word":"anticoagulant","meaning":"A substance that prevents blood clotting.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"malnourishment","meaning":"Poor nutrition.","part_of_speeh":"noun","level":"hard"},
+  {"word":"malnourishment","meaning":"Poor nutrition.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"subclassification","meaning":"A further division within a classification.","part_of_speeh":"noun","level":"hard"},
+  {"word":"subclassification","meaning":"A further division within a classification.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"ultramodern","meaning":"Extremely modern and advanced.","part_of_speeh":"adjective","level":"hard"}
+  {"word":"ultramodern","meaning":"Extremely modern and advanced.","part_of_speech":"adjective","level":"hard"}
 ]
