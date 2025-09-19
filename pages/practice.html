@@ -21,19 +21,20 @@
     <section class="app-card space-y-6" id="practice-root">
       <div class="flex items-center justify-between">
         <p id="word-counter" class="text-sm font-medium text-gray-700">Word 1 of 10</p>
-        <div class="w-40 h-2 bg-gray-200 rounded-full overflow-hidden">
-          <div id="progress-bar" class="h-full bg-primary-500 w-1/10"></div>
-        </div>
       </div>
       <div class="space-y-4" id="interaction-area">
-        <button id="speak-btn" class="app-btn" type="button">🔊 Hear Word</button>
+        <div class="flex flex-wrap gap-2 items-center">
+          <button id="speak-btn" class="app-btn" type="button">🔊 Hear Word</button>
+          <button id="speak-meaning-btn" type="button" class="app-btn text-sm" aria-label="Speak meaning">🔊 Meaning</button>
+          <button id="speak-pos-btn" type="button" class="app-btn text-sm" aria-label="Speak part of speech">🔊 Part of Speech</button>
+        </div>
         <div>
           <label class="block mb-1 font-medium" for="spelling-input">Your Spelling</label>
           <input id="spelling-input" class="app-input" autocomplete="off" />
         </div>
         <button id="submit-btn" class="app-btn" type="button" disabled>Submit Spelling</button>
       </div>
-      <div id="feedback" class="hidden space-y-2">
+      <div id="feedback" class="hidden space-y-3">
         <p id="result-text" class="font-semibold"></p>
         <p id="meaning-text" class="text-sm text-gray-700"></p>
         <button id="next-btn" class="app-btn" type="button" disabled>Next Word</button>

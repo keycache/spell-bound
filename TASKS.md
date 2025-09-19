@@ -50,23 +50,24 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 
 ### 🎨 UI Elements
 
-* [ ] Word # counter (e.g. 1 of 10)
-* [ ] Button: “🔊 Hear Word” – triggers Web Speech API
-* [ ] Text field for user to enter spelling
-* [ ] “Submit Spelling” button (disabled until input)
-* [ ] Meaning + part of speech (shown **after** submission)
-* [ ] Disable navigation/skipping until word is attempted
+* [x] Word # counter (e.g. 1 of 10)
+* [x] Button: “🔊 Hear Word” – triggers Web Speech API
+* [x] Text field for user to enter spelling
+* [x] “Submit Spelling” button (disabled until input)
+* [x] Meaning + part of speech (shown **after** submission)
+* [x] Disable navigation/skipping until word is attempted
+* [x] Added post-submission buttons: Reveal Meaning, 🔊 Meaning, 🔊 Part of Speech (enhancement)
 
 ### 🧠 Logic
 
-* [ ] Load words matching criteria from `/data/words/{category_slug}.json`
-* [ ] Combine from multiple categories if more than one selected
-* [ ] Randomly pick 10 words matching difficulty
-* [ ] Use Web Speech API to speak the word
-* [ ] Prevent skipping
-* [ ] Validate spelling input, compare, and store results in memory
-* [ ] Once all 10 are complete, store session summary to localStorage
-* [ ] Redirect to `results.html` with session info
+* [x] Load words matching criteria from `/data/words/{category_slug}.json`
+* [x] Combine from multiple categories if more than one selected
+* [x] Randomly pick 10 words matching difficulty (fallback to all if insufficient)
+* [x] Use Web Speech API to speak the word
+* [x] Prevent skipping (next disabled until answer submitted)
+* [x] Validate spelling input, compare, and store results in memory
+* [x] Once all 10 are complete, store session summary to localStorage
+* [x] Redirect to `results.html` with session info
 
 ---
 
@@ -134,7 +135,7 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 * [ ] Consider using:
 
   * Icons (audio, checkmark, cross, etc.)
-  * Progress bar or visual for current question
+  * Progress bar or visual for current question (Removed intentionally after iteration – using simple counter only)
 * [ ] Ensure accessibility for younger users
 
 ---
@@ -142,7 +143,7 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 ## 📦 PHASE 8: Extras (Optional)
 
 * [ ] Add "Try Again" or "Redo Session" button on Results page
-* [ ] Add "See Meaning" after submission toggle
+* [x] Add "See Meaning" after submission toggle (implemented as Reveal Meaning button)
 * [ ] Add sound effects (correct/wrong buzz)
 * [ ] Easter eggs or motivational messages ("You're a spelling superstar! 🌟")
 
