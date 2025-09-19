@@ -6,39 +6,39 @@
 
   {"word":"colonel","meaning":"A military rank pronounced 'kernel'.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"debtors","meaning":"People who owe money (silent 'b').","part_of_speech":"noun","level":"easy"},
+  {"word":"debtors","meaning":"People who owe money.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"salmon","meaning":"A large edible fish (silent 'l').","part_of_speech":"noun","level":"easy"},
+  {"word":"salmon","meaning":"A large edible fish.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"answer","meaning":"A thing written or said in response to a question (silent 'w').","part_of_speech":"noun","level":"easy"},
+  {"word":"answer","meaning":"A thing written or said in response to a question.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"receipt","meaning":"A written acknowledgment of money received (silent 'p').","part_of_speech":"noun","level":"easy"},
+  {"word":"receipt","meaning":"A written acknowledgment of money received.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"gnarly","meaning":"Twisted with gnarls (silent 'g').","part_of_speech":"adjective","level":"easy"},
+  {"word":"gnarly","meaning":"Twisted with gnarls.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"psychic","meaning":"Relating to the soul or mind (silent 'p').","part_of_speech":"adjective","level":"easy"},
+  {"word":"psychic","meaning":"Relating to the soul or mind.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"wristlet","meaning":"A small decorative band worn on the wrist (silent 'w').","part_of_speech":"noun","level":"easy"},
+  {"word":"wristlet","meaning":"A small decorative band worn on the wrist.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"knuckle","meaning":"The joint of a finger (silent 'k').","part_of_speech":"noun","level":"easy"},
+  {"word":"knuckle","meaning":"The joint of a finger.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"gnomic","meaning":"Expressed in short, pithy sayings (silent 'g').","part_of_speech":"adjective","level":"easy"},
+  {"word":"gnomic","meaning":"Expressed in short, pithy sayings.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"phlegmy","meaning":"Containing or producing phlegm (silent 'g').","part_of_speech":"adjective","level":"easy"},
+  {"word":"phlegmy","meaning":"Containing or producing phlegm.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"plumber","meaning":"A person who installs and repairs piping (silent 'b').","part_of_speech":"noun","level":"easy"},
+  {"word":"plumber","meaning":"A person who installs and repairs piping.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"yachtman","meaning":"A man who sails or owns a yacht (silent 'ch').","part_of_speech":"noun","level":"easy"},
+  {"word":"yachtman","meaning":"A man who sails or owns a yacht.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"aligner","meaning":"A device used to align teeth (silent 'g').","part_of_speech":"noun","level":"easy"},
+  {"word":"aligner","meaning":"A device used to align teeth.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"gnawing","meaning":"Persistent biting or nibbling (silent 'g').","part_of_speech":"verb","level":"easy"},
+  {"word":"gnawing","meaning":"Persistent biting or nibbling.","part_of_speech":"verb","level":"easy"},
 
-  {"word":"gnostic","meaning":"Relating to esoteric mystical knowledge (silent 'g').","part_of_speech":"adjective","level":"easy"},
+  {"word":"gnostic","meaning":"Relating to esoteric mystical knowledge.","part_of_speech":"adjective","level":"easy"},
 
-  {"word":"dumbbell","meaning":"An exercise weight (silent 'b').","part_of_speech":"noun","level":"easy"},
+  {"word":"dumbbell","meaning":"An exercise weight.","part_of_speech":"noun","level":"easy"},
 
-  {"word":"whistle","meaning":"A clear high-pitched sound made by forcing breath (silent 'h').","part_of_speech":"noun","level":"easy"},
+  {"word":"whistle","meaning":"A clear high-pitched sound made by forcing breath.","part_of_speech":"noun","level":"easy"},
 
   {"word":"apocryphal","meaning":"Of doubtful authenticity, though widely circulated.","part_of_speech":"adjective","level":"medium"},
 
@@ -48,77 +48,77 @@
 
   {"word":"debacle","meaning":"A sudden disastrous failure.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"heirloom","meaning":"A valuable object passed down (silent 'h').","part_of_speech":"noun","level":"medium"},
+  {"word":"heirloom","meaning":"A valuable object passed down.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"knapsack","meaning":"A bag carried on the back (silent 'k').","part_of_speech":"noun","level":"medium"},
+  {"word":"knapsack","meaning":"A bag carried on the back.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"maligned","meaning":"Spoken about in a spitefully critical manner (silent 'g').","part_of_speech":"adjective","level":"medium"},
+  {"word":"maligned","meaning":"Spoken about in a spitefully critical manner.","part_of_speech":"adjective","level":"medium"},
 
-  {"word":"mnemonic","meaning":"A device that aids memory (silent first 'm').","part_of_speech":"noun","level":"medium"},
+  {"word":"mnemonic","meaning":"A device that aids memory.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"opossum","meaning":"A nocturnal marsupial (silent 'o').","part_of_speech":"noun","level":"medium"},
+  {"word":"opossum","meaning":"A nocturnal marsupial.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"pterodactyl","meaning":"An extinct flying reptile (silent 'p').","part_of_speech":"noun","level":"medium"},
+  {"word":"pterodactyl","meaning":"An extinct flying reptile.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"pseudonym","meaning":"A fictitious name (silent 'p').","part_of_speech":"noun","level":"medium"},
+  {"word":"pseudonym","meaning":"A fictitious name.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"rendezvous","meaning":"A meeting at an agreed place (silent 'z').","part_of_speech":"noun","level":"medium"},
+  {"word":"rendezvous","meaning":"A meeting at an agreed place.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"tsunami","meaning":"A large sea wave (silent 't').","part_of_speech":"noun","level":"medium"},
+  {"word":"tsunami","meaning":"A large sea wave.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"wrangler","meaning":"A person in charge of livestock (silent 'w').","part_of_speech":"noun","level":"medium"},
+  {"word":"wrangler","meaning":"A person in charge of livestock.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"xylophone","meaning":"A percussion instrument (x pronounced 'z').","part_of_speech":"noun","level":"medium"},
+  {"word":"xylophone","meaning":"A percussion instrument.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"yachtsman","meaning":"A person who owns or sails a yacht (silent 'ch').","part_of_speech":"noun","level":"medium"},
+  {"word":"yachtsman","meaning":"A person who owns or sails a yacht.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"aligning","meaning":"Arranging in a straight line (silent 'g').","part_of_speech":"verb","level":"medium"},
+  {"word":"aligning","meaning":"Arranging in a straight line.","part_of_speech":"verb","level":"medium"},
 
-  {"word":"gnomon","meaning":"Projecting piece on a sundial (silent 'g').","part_of_speech":"noun","level":"medium"},
+  {"word":"gnomon","meaning":"Projecting piece on a sundial.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"ptarmigan","meaning":"A northern grouse (silent 'p').","part_of_speech":"noun","level":"medium"},
+  {"word":"ptarmigan","meaning":"A northern grouse.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"swordsmith","meaning":"A person who forges swords (silent 'w').","part_of_speech":"noun","level":"medium"},
+  {"word":"swordsmith","meaning":"A person who forges swords.","part_of_speech":"noun","level":"medium"},
 
-  {"word":"archaeopteryx","meaning":"An extinct primitive bird (silent 'ae' pronounced 'ee').","part_of_speech":"noun","level":"hard"},
+  {"word":"archaeopteryx","meaning":"An extinct primitive bird.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"apophthegm","meaning":"A concise saying or maxim (silent 'phth').","part_of_speech":"noun","level":"hard"},
+  {"word":"apophthegm","meaning":"A concise saying or maxim.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"chiaroscuro","meaning":"Treatment of light and shade in art (unusual pronunciation).","part_of_speech":"noun","level":"hard"},
+  {"word":"chiaroscuro","meaning":"Treatment of light and shade in art.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"drachm","meaning":"An apothecaries' unit of weight (silent 'ch').","part_of_speech":"noun","level":"hard"},
+  {"word":"drachm","meaning":"An apothecaries' unit of weight.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"eleemosynary","meaning":"Relating to charity (spelling deceptive).","part_of_speech":"adjective","level":"hard"},
+  {"word":"eleemosynary","meaning":"Relating to charity.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"gnathostomulid","meaning":"A minute marine worm (silent 'g').","part_of_speech":"noun","level":"hard"},
+  {"word":"gnathostomulid","meaning":"A minute marine worm.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"helicobacter","meaning":"A genus of bacteria (soft 'h' variation).","part_of_speech":"noun","level":"hard"},
+  {"word":"helicobacter","meaning":"A genus of bacteria.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"ichthyophagous","meaning":"Fish-eating (unusual clusters).","part_of_speech":"adjective","level":"hard"},
+  {"word":"ichthyophagous","meaning":"Fish-eating.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"jouissance","meaning":"Intense pleasure or ecstasy (French pronunciation).","part_of_speech":"noun","level":"hard"},
+  {"word":"jouissance","meaning":"Intense pleasure or ecstasy.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"knickerbockers","meaning":"Loose-fitting breeches (silent 'k').","part_of_speech":"noun","level":"hard"},
+  {"word":"knickerbockers","meaning":"Loose-fitting breeches.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"mnemosyne","meaning":"Personification of memory (silent 'm').","part_of_speech":"proper noun","level":"hard"},
+  {"word":"mnemosyne","meaning":"Personification of memory.","part_of_speech":"proper noun","level":"hard"},
 
-  {"word":"pneumatophore","meaning":"A specialized aerial root (silent 'p').","part_of_speech":"noun","level":"hard"},
+  {"word":"pneumatophore","meaning":"A specialized aerial root.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"psittaciformes","meaning":"Order containing parrots (silent 'p').","part_of_speech":"noun","level":"hard"},
+  {"word":"psittaciformes","meaning":"Order containing parrots.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"ptilopterous","meaning":"Having feathered wings (silent 'p').","part_of_speech":"adjective","level":"hard"},
+  {"word":"ptilopterous","meaning":"Having feathered wings.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"schadenfreude","meaning":"Pleasure from another's misfortune (German).","part_of_speech":"noun","level":"hard"},
+  {"word":"schadenfreude","meaning":"Pleasure from another's misfortune.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"syzygetic","meaning":"Relating to a pair of opposites (silent 'y' shift).","part_of_speech":"adjective","level":"hard"},
+  {"word":"syzygetic","meaning":"Relating to a pair of opposites.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"tzatziki","meaning":"A Greek yogurt and cucumber sauce (silent 't' start).","part_of_speech":"noun","level":"hard"},
+  {"word":"tzatziki","meaning":"A Greek yogurt and cucumber sauce.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"ultramicroscopic","meaning":"Extremely small (many syllables).","part_of_speech":"adjective","level":"hard"},
+  {"word":"ultramicroscopic","meaning":"Extremely small.","part_of_speech":"adjective","level":"hard"},
 
-  {"word":"worcestershire","meaning":"A fermented liquid condiment (pronounced 'woos-tuh-sheer').","part_of_speech":"noun","level":"hard"},
+  {"word":"worcestershire","meaning":"A fermented liquid condiment.","part_of_speech":"noun","level":"hard"},
 
-  {"word":"xanthochroism","meaning":"Abnormal yellow pigmentation (silent 'x' shift).","part_of_speech":"noun","level":"hard"},
+  {"word":"xanthochroism","meaning":"Abnormal yellow pigmentation.","part_of_speech":"noun","level":"hard"},
 
   {"word":"zeugmatically","meaning":"In a manner relating to a figure of speech where a word applies to multiple parts.","part_of_speech":"adverb","level":"hard"}
 ]
