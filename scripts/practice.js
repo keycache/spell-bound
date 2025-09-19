@@ -243,7 +243,7 @@ function buildKeyboard() {
   const caseBtn = document.createElement('button');
   caseBtn.type = 'button';
   caseBtn.className = 'kb-key control toggle';
-  caseBtn.textContent = 'a⇅';
+  caseBtn.textContent = 'Toggle Case';
   caseBtn.setAttribute('aria-label', 'Toggle case');
   caseBtn.setAttribute('aria-pressed', 'false');
   caseBtn.addEventListener('click', () => {

@@ -29,7 +29,7 @@
   /* PHASE 9: Mobile custom keyboard */
   #mobile-keyboard { user-select:none; margin-top:0.75rem; }
   .kb-row { display:flex; justify-content:center; gap:0.25rem; margin-bottom:0.5rem; }
-  .kb-key { min-width:2.3rem; padding:0.5rem 0.5rem; border-radius:0.55rem; background:#0da1e6; color:#fff; font-weight:600; font-size:0.9rem; box-shadow:0 1px 2px rgba(0,0,0,0.15); transition:background .15s, transform .1s; }
+  .kb-key { min-width:2.0rem; padding:0.5rem 0.5rem; border-radius:0.55rem; background:#0da1e6; color:#fff; font-weight:600; font-size:0.9rem; box-shadow:0 1px 2px rgba(0,0,0,0.15); transition:background .15s, transform .1s; }
   .kb-key:hover, .kb-key:focus-visible { background:#027fbe; outline:2px solid #b6e6ff; outline-offset:2px; }
   .kb-key:active { transform: translateY(1px); }
   .kb-key.control { min-width:3.2rem; background:#036697; font-size:0.7rem; letter-spacing:.5px; }
