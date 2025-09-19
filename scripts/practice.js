@@ -17,7 +17,7 @@ const submitBtn = document.getElementById('submit-btn');
 const feedbackBox = document.getElementById('feedback');
 const resultText = document.getElementById('result-text');
 const meaningText = document.getElementById('meaning-text');
-const nextBtn = document.getElementById('next-btn');
+const nextBtn = document.getElementById('next-btn'); // will be deprecated (hidden) after refactor
 // Audio info buttons (now shown beside main word pre-submission and hidden after answer)
 const speakMeaningBtn = document.getElementById('speak-meaning-btn');
 const speakPosBtn = document.getElementById('speak-pos-btn');
@@ -26,6 +26,7 @@ let allWords = [];
 let quizWords = [];
 let currentIndex = 0;
 let attempts = [];
+let submissionCompleteForCurrent = false; // track if current word already submitted
 
 init();
 
@@ -80,8 +81,11 @@ function prepareForCurrentWord() {
   spellingInput.value = '';
   spellingInput.disabled = false;
   submitBtn.disabled = true;
+  submitBtn.textContent = 'Submit Spelling';
+  submissionCompleteForCurrent = false;
   feedbackBox.classList.add('hidden');
   nextBtn.disabled = true;
+  nextBtn.classList.add('hidden'); // hide deprecated button in UI
   // Reset meaning display; buttons visible pre-answer
   meaningText.textContent = '';
   showInfoButtonsIfData();
@@ -92,8 +96,8 @@ function attachEvents() {
   spellingInput.addEventListener('input', () => {
     submitBtn.disabled = spellingInput.value.trim().length === 0;
   });
-  submitBtn.addEventListener('click', onSubmitSpelling);
-  nextBtn.addEventListener('click', onNextWord);
+  submitBtn.addEventListener('click', onPrimaryButtonClick);
+  nextBtn.addEventListener('click', onNextWord); // legacy fallback if still visible
   speakBtn.addEventListener('click', speakCurrentWord);
   speakMeaningBtn?.addEventListener('click', speakMeaning);
   speakPosBtn?.addEventListener('click', speakPartOfSpeech);
@@ -129,18 +133,20 @@ function onSubmitSpelling() {
 
 function showFeedback(correct, current) {
   spellingInput.disabled = true;
-  submitBtn.disabled = true;
+  submitBtn.disabled = false; // repurpose as next button
   feedbackBox.classList.remove('hidden');
   resultText.textContent = correct ? '✔ Correct!' : `❌ Oops! The word was: ${current.word}`;
   resultText.className = 'font-semibold ' + (correct ? 'text-green-600' : 'text-red-600');
-  // After submission: do NOT auto-reveal meaning; keep speak buttons available
-  meaningText.textContent = ''; // stay blank until future feature (e.g., manual reveal)
-  nextBtn.disabled = false;
-  // progress bar removed
-  if (currentIndex === quizWords.length - 1) {
-    nextBtn.textContent = 'See Results';
+  meaningText.textContent = '';
+  submissionCompleteForCurrent = true;
+  submitBtn.textContent = currentIndex === quizWords.length - 1 ? 'See Results' : 'Next Word';
+}
+
+function onPrimaryButtonClick() {
+  if (!submissionCompleteForCurrent) {
+    onSubmitSpelling();
   } else {
-    nextBtn.textContent = 'Next Word';
+    onNextWord();
   }
 }
 
@@ -181,13 +187,13 @@ function speakPartOfSpeech() {
 
 function onNextWord() {
   if (!quizWords.length) return;
+  if (!submissionCompleteForCurrent) return; // safety: don't advance without submission
   if (currentIndex === quizWords.length - 1) {
     finalizeSession();
     return;
   }
   currentIndex++;
   updateCounter();
-    // progress bar removed
   prepareForCurrentWord();
 }
 
