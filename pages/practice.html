@@ -30,12 +30,13 @@
         </div>
         <div>
           <label class="block mb-1 font-medium" for="spelling-input">Your Spelling</label>
-          <input id="spelling-input" class="app-input" autocomplete="off" />
+          <input id="spelling-input" class="app-input" autocomplete="off" aria-describedby="spell-hint" />
+          <p id="spell-hint" class="text-xs text-gray-600 mt-1">Type the word you hear, then press Submit.</p>
         </div>
         <button id="submit-btn" class="app-btn" type="button" disabled>Submit Spelling</button>
       </div>
-      <div id="feedback" class="hidden space-y-3">
-        <p id="result-text" class="font-semibold"></p>
+      <div id="feedback" class="hidden space-y-3" aria-live="polite" aria-atomic="true">
+        <p id="result-text" class="font-semibold" role="status"></p>
         <p id="meaning-text" class="text-sm text-gray-700"></p>
         <button id="next-btn" class="app-btn" type="button" disabled>Next Word</button>
       </div>

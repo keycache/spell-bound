@@ -126,17 +126,17 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 
 ## 🎨 PHASE 7: Design & Styling (across all pages)
 
-* [ ] Apply consistent background and playful theme
-* [ ] Use Tailwind to:
+* [x] Apply consistent background and playful theme (gradient header, bg image overlay)
+* [x] Use Tailwind to:
 
-  * Make it responsive
-  * Add color (pastel / primary colors)
-  * Add hover/focus styles to inputs and buttons
-* [ ] Consider using:
+  * Make it responsive (flex/grid adjustments, button stacking)
+  * Add color (refined high-contrast primary gradient, secondary & outline variants)
+  * Add hover/focus styles to inputs and buttons (custom :focus-visible ring)
+* [x] Consider using:
 
-  * Icons (audio, checkmark, cross, etc.)
-  * Progress bar or visual for current question (Removed intentionally after iteration – using simple counter only)
-* [ ] Ensure accessibility for younger users
+  * Icons (audio present)
+  * Progress bar or visual for current question (intentionally removed; counter only)
+* [x] Ensure accessibility for younger users (aria-live feedback, labels, contrast, sr-only utilities)
 
 ---
 
