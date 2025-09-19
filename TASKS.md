@@ -75,18 +75,18 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 
 ### 🎨 UI Elements
 
-* [ ] Show criteria used: Age Group, Difficulty, Categories
-* [ ] Table: List of 10 words, user spelling, correct spelling, result (✔ / ❌)
-* [ ] Score summary (e.g. 7/10 correct)
-* [ ] Section: **Your Past Sessions**
+* [x] Show criteria used: Age Group, Difficulty, Categories
+* [x] Table: List of 10 words, user spelling, correct spelling, result (✔ / ❌)
+* [x] Score summary (e.g. 7/10 correct)
+* [x] Section: **Your Past Sessions**
 
-  * [ ] Table or visual chart (use Tailwind + simple inline chart lib if needed)
+  * [x] Table or visual chart (table implemented; no chart library yet)
 
 ### 🧠 Logic
 
-* [ ] Load current session results from localStorage
-* [ ] Append new result to historical data
-* [ ] Aggregate past session stats (total sessions, avg. score, top categories, etc.)
+* [x] Load current session results from localStorage
+* [x] Append new result to historical data (done in practice phase; consumed here)
+* [x] Aggregate past session stats (total sessions, avg. score, top categories, etc.)
 
 ---
 

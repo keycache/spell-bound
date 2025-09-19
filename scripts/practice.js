@@ -1,4 +1,4 @@
-import { loadJSON, saveJSON, STORAGE_KEYS, formatDate } from './common.js';
+import { loadJSON, saveJSON, STORAGE_KEYS, formatDate, QUIZ_WORD_COUNT } from './common.js';
 
 /*
  Data shape for words JSON: [{ word, meaning, part_of_speech, level }]
@@ -74,10 +74,10 @@ function selectQuizWords() {
   if (criteria.difficulty && criteria.difficulty !== 'any') {
     pool = pool.filter(w => w.level === criteria.difficulty);
   }
-  // If pool smaller than 10, fallback to all
-  if (pool.length < 10) pool = allWords;
+  // If pool smaller than target count, fallback to all
+  if (pool.length < QUIZ_WORD_COUNT) pool = allWords;
   shuffle(pool);
-  quizWords = pool.slice(0, 10);
+  quizWords = pool.slice(0, QUIZ_WORD_COUNT);
   if (quizWords.length === 0) {
     // Edge case: nothing loaded (maybe empty categories or fetch failed)
     wordCounterEl.innerHTML = 'No words available for the chosen settings. <a href="home.html" class="text-primary-600 underline">Go Back</a>';

@@ -25,4 +25,7 @@ export function formatDate(ts) {
   return d.toLocaleString();
 }
 
+// Configurable quiz size (default 10). Change here to adjust number of words per session.
+export const QUIZ_WORD_COUNT = 10;
+
 // Placeholder: more utilities will be added in future phases.
