@@ -147,4 +147,20 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 * [ ] Add sound effects (correct/wrong buzz)
 * [ ] Easter eggs or motivational messages ("You're a spelling superstar! 🌟")
 
+## PHASE 9: Mobile Custom Keyboard for Practice Page
+* [ ] Detect mobile screen width and conditionally show the custom keyboard
+* [ ] Prevent input field from triggering the native keyboard
+
+  * (Use `readonly`, `tabindex="-1"`, or alternative workaround)
+* [ ] Build on-screen QWERTY keyboard (rows: Q–P, A–L, Z–M)
+* [ ] Add buttons for:
+
+  * Toggle case (A ↔ a)
+  * Backspace (←)
+  * Clear (✖)
+* [ ] Bind keyboard buttons to update the input field
+* [ ] Ensure correct integration with existing input validation and submit flow
+* [ ] Add basic accessibility labels for keys (ARIA)
+
+
 ---
