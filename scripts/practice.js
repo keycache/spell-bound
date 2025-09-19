@@ -171,7 +171,7 @@ function speakPartOfSpeech() {
   if (!quizWords.length) return;
   const current = quizWords[currentIndex];
   if (!current || !current.partOfSpeech) return;
-  const label = 'Part of speech: ' + current.partOfSpeech;
+  const label = current.partOfSpeech;
   const utter = new SpeechSynthesisUtterance(label);
   utter.rate = 1.0;
   utter.pitch = 1.0;
