@@ -1,0 +1,14 @@
+{
+  "name": "spell-bound",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tailwindcss -i ./styles/tailwind-input.css -o ./styles/tailwind.css --watch",
+    "build": "tailwindcss -i ./styles/tailwind-input.css -o ./styles/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.41",
+    "autoprefixer": "^10.4.20"
+  }
+}

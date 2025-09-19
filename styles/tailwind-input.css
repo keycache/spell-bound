@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom layer for app-specific utilities */
+@layer base {
+  body {
+    @apply bg-cover bg-center min-h-screen text-gray-800 font-sans;
+    background-image: url('../assets/bg.webp');
+  }
+}
+
+@layer components {
+  .app-card {
+    @apply bg-white/80 backdrop-blur-sm rounded-xl shadow-md p-6 border border-white/50;
+  }
+  .app-btn {
+    @apply px-5 py-2.5 rounded-lg font-semibold bg-primary-500 text-white shadow hover:bg-primary-600 focus:outline-none focus:ring-4 focus:ring-primary-300 transition;
+  }
+  .app-input {
+    @apply w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-4 focus:ring-primary-200 focus:border-primary-500 outline-none bg-white/90;
+  }
+}
+
+@layer utilities {
+  .gradient-overlay {
+    background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.7), rgba(255,255,255,0.2));
+  }
+}

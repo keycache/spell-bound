@@ -6,10 +6,10 @@ Name of the App is `Spell Bound`
 
 ### 🔧 1. Boilerplate
 
-* [ ] Initialize basic HTML/CSS/JS structure
-* [ ] Configure Tailwind CSS
-* [ ] Add favicon(favicon.ico) & playful background image(bg.webp) available in assets folder
-* [ ] Set consistent layout template (header, background, colors)
+* [x] Initialize basic HTML/CSS/JS structure
+* [x] Configure Tailwind CSS
+* [x] Add favicon(favicon.ico) & playful background image(bg.webp) available in assets folder
+* [x] Set consistent layout template (header, background, colors)
 
 ### 🗂 2. Folder Structure
 
@@ -22,6 +22,8 @@ Create folders for:
 /styles           -> Custom Tailwind config or extra CSS if needed
 /pages            -> HTML files (home.html, practice.html, results.html, random.html)
 ```
+
+Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already present)
 
 ---
 
