@@ -20,10 +20,29 @@
   .app-input {
     @apply w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-4 focus:ring-primary-200 focus:border-primary-500 outline-none bg-white/90;
   }
+  .app-header {
+    @apply w-full py-4 px-6 flex items-center justify-between shadow-md border-b border-primary-200/60 backdrop-blur;
+    background: linear-gradient(135deg, theme('colors.primary.100'), theme('colors.primary.300')); /* fallback */
+    background: linear-gradient(135deg, rgba(224,245,255,0.85), rgba(130,214,255,0.85));
+  }
+
+  /* PHASE 9: Mobile custom keyboard */
+  #mobile-keyboard { user-select:none; margin-top:0.75rem; }
+  .kb-row { display:flex; justify-content:center; gap:0.25rem; margin-bottom:0.5rem; }
+  .kb-key { min-width:2.3rem; padding:0.5rem 0.5rem; border-radius:0.55rem; background:#0da1e6; color:#fff; font-weight:600; font-size:0.9rem; box-shadow:0 1px 2px rgba(0,0,0,0.15); transition:background .15s, transform .1s; }
+  .kb-key:hover, .kb-key:focus-visible { background:#027fbe; outline:2px solid #b6e6ff; outline-offset:2px; }
+  .kb-key:active { transform: translateY(1px); }
+  .kb-key.control { min-width:3.2rem; background:#036697; font-size:0.7rem; letter-spacing:.5px; }
+  .kb-key.control:hover, .kb-key.control:focus-visible { background:#024b6c; }
+  .kb-key.toggle[aria-pressed="true"] { background:#024b6c; }
 }
 
 @layer utilities {
   .gradient-overlay {
     background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.7), rgba(255,255,255,0.2));
+  }
+  /* Hide custom keyboard on >= sm */
+  @media (min-width: 640px) {
+    #mobile-keyboard { display: none !important; }
   }
 }
