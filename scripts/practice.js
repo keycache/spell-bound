@@ -1,4 +1,5 @@
-import { loadJSON, saveJSON, STORAGE_KEYS, formatDate, QUIZ_WORD_COUNT } from './common.js';
+import { loadJSON, STORAGE_KEYS, QUIZ_WORD_COUNT } from './common.js';
+import { loadWordsByCategory, getRandomWordsFromSelection, storeResultToLocalStorage } from './data.js';
 
 /*
  Data shape for words JSON: [{ word, meaning, part_of_speech, level }]
@@ -52,45 +53,16 @@ async function init() {
 
 async function loadSelectedCategories() {
   const catSlugs = criteria.categories || [];
-  const promises = catSlugs.map(slug => fetch(`../data/words/${slug}.json`).then(r => {
-    if (!r.ok) throw new Error('Failed to load words for ' + slug);
-    return r.json();
-  }));
-  const lists = await Promise.all(promises);
-  allWords = lists.flat().map(w => normalizeWord(w));
-}
-
-function normalizeWord(raw) {
-  return {
-    word: raw.word,
-    meaning: raw.meaning || '',
-    partOfSpeech: raw.part_of_speech || raw.part_of_speech || '',
-    level: raw.level || 'easy'
-  };
+  allWords = await loadWordsByCategory(catSlugs);
 }
 
 function selectQuizWords() {
-  let pool = allWords;
-  if (criteria.difficulty && criteria.difficulty !== 'any') {
-    pool = pool.filter(w => w.level === criteria.difficulty);
-  }
-  // If pool smaller than target count, fallback to all
-  if (pool.length < QUIZ_WORD_COUNT) pool = allWords;
-  shuffle(pool);
-  quizWords = pool.slice(0, QUIZ_WORD_COUNT);
+  quizWords = getRandomWordsFromSelection(allWords, criteria);
   if (quizWords.length === 0) {
-    // Edge case: nothing loaded (maybe empty categories or fetch failed)
     wordCounterEl.innerHTML = 'No words available for the chosen settings. <a href="home.html" class="text-primary-600 underline">Go Back</a>';
     speakBtn.disabled = true;
     submitBtn.disabled = true;
     spellingInput.disabled = true;
-  }
-}
-
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
 }
 
@@ -220,25 +192,6 @@ function onNextWord() {
 }
 
 function finalizeSession() {
-  const score = attempts.filter(a => a.correct).length;
-  const session = {
-    id: 'sess-' + Date.now(),
-    criteria,
-    attempts,
-    score,
-    total: attempts.length,
-    completedAt: Date.now()
-  };
-  saveJSON(STORAGE_KEYS.CURRENT_SESSION, session);
-  // Append to history
-  const history = loadJSON(STORAGE_KEYS.HISTORY, []);
-  history.push({
-    id: session.id,
-    score: session.score,
-    total: session.total,
-    criteria: session.criteria,
-    completedAt: session.completedAt
-  });
-  saveJSON(STORAGE_KEYS.HISTORY, history);
+  storeResultToLocalStorage({ criteria, attempts });
   window.location.href = 'results.html';
 }

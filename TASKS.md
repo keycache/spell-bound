@@ -110,17 +110,17 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 
 ## 💾 PHASE 6: Data Management
 
-* [ ] Use localStorage to persist:
+* [x] Use localStorage to persist:
 
   * Selected criteria
   * Current session answers
   * Historical results
-* [ ] Create helper functions:
+* [x] Create helper functions:
 
-  * `loadWordsByCategory()`
-  * `getRandomWordsFromSelection()`
-  * `storeResultToLocalStorage()`
-  * `getHistoricalStats()`
+  * `loadWordsByCategory()` (implemented in `data.js`)
+  * `getRandomWordsFromSelection()` (implemented in `data.js`)
+  * `storeResultToLocalStorage()` (implemented in `data.js`)
+  * `getHistoricalStats()` (implemented in `data.js` and consumed in `results.js`)
 
 ---
 

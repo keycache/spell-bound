@@ -1,4 +1,5 @@
 import { loadJSON, STORAGE_KEYS, formatDate } from './common.js';
+import { getHistoricalStats } from './data.js';
 
 /* Phase 4: Results Page Logic
    Responsibilities:
@@ -14,6 +15,8 @@ const scoreSummaryEl = document.getElementById('score-summary');
 const historyStatsEl = document.getElementById('history-stats');
 const historyTableBody = document.querySelector('#history-table tbody');
 const historySection = document.getElementById('history-section');
+const clearBtn = document.getElementById('clear-data-btn');
+const clearFeedback = document.getElementById('clear-feedback');
 
 init();
 
@@ -41,6 +44,10 @@ function init() {
 
   renderHistory(history);
   renderHistoryStats(history);
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', onClearData);
+  }
 }
 
 function renderSession(session) {
@@ -95,36 +102,23 @@ function historyRow(h) {
 }
 
 function renderHistoryStats(history) {
-  if (!history.length) {
-    historyStatsEl.textContent = '';
-    return;
-  }
-  const totalSessions = history.length;
-  const totalWords = history.reduce((sum,h) => sum + (h.total || 0), 0);
-  const totalCorrect = history.reduce((sum,h) => sum + (h.score || 0), 0);
-  const avgPercent = totalWords ? Math.round((totalCorrect/totalWords)*100) : 0;
-  const bestSession = history.reduce((best,h) => h.score/h.total > best.ratio ? { ratio: h.score/h.total, h } : best, { ratio: -1, h: null });
-
-  // Top categories (count appearances)
-  const catCount = {};
-  history.forEach(h => {
-    (h.criteria?.categories || []).forEach(cat => {
-      catCount[cat] = (catCount[cat] || 0) + 1;
-    });
-  });
-  const topCategories = Object.entries(catCount)
-    .sort((a,b) => b[1]-a[1])
-    .slice(0,3)
-    .map(([c,count]) => `${c} (${count})`)
-    .join(', ') || '—';
-
+  if (!history.length) { historyStatsEl.textContent = ''; return; }
+  const { totalSessions, avgPercent, bestSession, topCategories } = mapStats(getHistoricalStats(history));
   historyStatsEl.innerHTML = `
     <div class="flex flex-wrap gap-x-6 gap-y-1">
       <div><span class="font-semibold">Total Sessions:</span> ${totalSessions}</div>
       <div><span class="font-semibold">Avg Accuracy:</span> ${avgPercent}%</div>
-      <div><span class="font-semibold">Best Session:</span> ${bestSession.h ? `${bestSession.h.score}/${bestSession.h.total}` : '—'}</div>
+      <div><span class="font-semibold">Best Session:</span> ${bestSession}</div>
       <div><span class="font-semibold">Top Categories:</span> ${topCategories}</div>
     </div>`;
+}
+
+function mapStats(stats) {
+  const bestSession = stats.bestSession ? `${stats.bestSession.score}/${stats.bestSession.total}` : '—';
+  const topCategories = stats.topCategories.length
+    ? stats.topCategories.map(c => `${c.category} (${c.count})`).join(', ')
+    : '—';
+  return { totalSessions: stats.totalSessions, avgPercent: stats.avgPercent, bestSession, topCategories };
 }
 
 // Simple escape to avoid table injection from word strings
@@ -136,4 +130,28 @@ function escapeHTML(str) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
+}
+
+function onClearData() {
+  const confirmClear = confirm('This will erase all Spell Bound saved data (criteria, current session, history). Continue?');
+  if (!confirmClear) return;
+  try {
+    Object.values(STORAGE_KEYS).forEach(k => localStorage.removeItem(k));
+    // Provide lightweight feedback and reset UI
+    if (clearFeedback) {
+      clearFeedback.textContent = 'All data cleared. Reload or start a new practice.';
+      clearFeedback.classList.remove('hidden');
+    }
+    criteriaDisplayEl.innerHTML = '<span class="text-red-600">Data cleared.</span> <a href="home.html" class="underline text-primary-600">Start fresh</a>';
+    resultsTableBody.innerHTML = '';
+    scoreSummaryEl.textContent = '';
+    historyTableBody.innerHTML = '<tr><td colspan="5" class="p-3 text-sm text-gray-600">No past sessions.</td></tr>';
+    historyStatsEl.textContent = '';
+  } catch (e) {
+    if (clearFeedback) {
+      clearFeedback.textContent = 'Failed to clear data: ' + e.message;
+      clearFeedback.classList.remove('hidden');
+      clearFeedback.classList.add('text-red-600');
+    }
+  }
 }
