@@ -31,18 +31,18 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 
 ### 🎨 UI Elements
 
-* [ ] Dropdown for Age Group (e.g. 7–10, 11–13, 14–17)
-* [ ] Difficulty level (radio or select)
-* [ ] Category multi-select (filtered by age group)
-* [ ] "Start Practice" button (rename to something fun, e.g. **“Buzz Me In!”**)
-* [ ] Link to **Random Practice (Gemini)** page
+* [x] Dropdown for Age Group (dynamic from `data/categories.json`)
+* [x] Difficulty select (values easy/medium/hard, capitalized on render)
+* [x] Category multi-select filtered by selected age group
+* [x] "Buzz Me In!" start button
+* [x] Link to Random Practice page
 
 ### 🧠 Logic
 
-* [ ] Load categories from `data/categories.json`
-* [ ] Filter category options based on selected age group
-* [ ] Validate selections (age group is mandatory)
-* [ ] Store selected criteria in localStorage or pass via query string
+* [x] Load categories from `data/categories.json`
+* [x] Filter category options based on selected age group
+* [x] Validate selections (age group mandatory)
+* [x] Store selected criteria to localStorage
 
 ---
 
