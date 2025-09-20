@@ -37,39 +37,13 @@ Data
 ----
 - `data/categories.json`: category objects `{ category, category_slug, age_group, description }`.
 - `data/words/*.json`: arrays of word objects `{ word, meaning?, part_of_speech?, level }`.
-- Normalization fills defaults and unifies property names.
 
-Key Scripts
+
+Local Run
 -----------
-- `scripts/common.js`: storage keys, JSON helpers, constants (`QUIZ_WORD_COUNT`).
-- `scripts/data.js`: loading, normalization, shuffling, selection, stats, session store.
-- `scripts/home.js`: criteria UI, age validation, auto category fallback.
-- `scripts/practice.js`: quiz control flow, speech, submission logic, mobile keyboard, defensive fallback.
-- `scripts/results.js`: history render and stats.
-
-State Persistence
------------------
-- `CRITERIA`: latest chosen criteria object.
-- `CURRENT_SESSION`: last completed session with attempts.
-- `HISTORY`: array of session summaries.
-
-Build / Run
------------
-- Static hosting compatible (GitHub Pages, Netlify, etc.).
+- Open a terminal and build the `tailwind.css` file with `npm run dev` from the project's root folder
 - Tailwind build expected (check `package.json` scripts if present). If not building, existing `styles/tailwind.css` can be served directly.
-- Open `index.html` (redirect) or `pages/home.html` directly.
-
-Selection Logic
----------------
-- Filter by difficulty unless difficulty == any.
-- Fallback to full pool if filtered set smaller than quiz count.
-- Shuffle then slice to `QUIZ_WORD_COUNT`.
-
-Accessibility
--------------
-- aria-live regions for feedback.
-- Proper button roles and labels.
-- Readonly input with custom keyboard on small screens prevents unwanted mobile keyboard overlap.
+- Open another terminal to run the server from project's root folder using `npx http-server -p 5173 .` Open `http://127.0.0.1:5173/index.html`
 
 Roadmap
 -------
