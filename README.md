@@ -19,12 +19,14 @@ Implemented Features
 - Speech synthesis for word, meaning, part of speech.
 - Defensive category reconstruction in practice if legacy criteria empty.
 - Tailwind-based component styling.
+ - Client-side reusable header/footer includes (Phase 10) via lightweight fetch injector.
 
 Pending / Not Implemented Yet
 -----------------------------
 - Gemini (AI) mode integration (Phase 5).
 - Optional enhancements: redo session action, sound effects, motivational messages.
 - Cleanup removal of deprecated hidden next button element (minor DOM artifact).
+ - Possible build-time include pipeline (replace client-side includes for SEO) if needed.
 
 Tech Stack
 ----------

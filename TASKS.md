@@ -163,5 +163,23 @@ Status: [x] Created `/scripts`, `/styles`, `/pages` (data & assets already prese
 * [x] Add basic accessibility labels for keys (ARIA labels + role=group for container)
 * Notes: Keyboard hidden above sm breakpoint (>=640px) via CSS & resize listener; case toggle updates button text; controls styled with custom classes.
 
+## PHASE 10: Reusable HTML Components (Header & Footer)
+* [x] Create standalone HTML partials for shared components
+
+  * `/components/header.html`
+  * `/components/footer.html`
+* [x] Build lightweight JS loader to fetch and inject components
+
+  * `loadComponent(selector, url)` using `fetch` API (simplified to data-include attribute loop)
+  * Called on `DOMContentLoaded` in `scripts/include.js`
+* [x] Add wrapper containers in HTML pages
+
+  * `<div data-include="/components/header.html"></div>` and `<div data-include="/components/footer.html"></div>`
+* [x] Reference JS loader in all pages (added just above module scripts)
+* [x] Update all pages to remove duplicated header/footer code
+* [x] Ensure compatibility with Tailwind classes inside components
+* [x] Test with local server to bypass CORS (`http-server`)
+* Notes: Components load client-side; not visible in `view-source`, slight delay may occur. Fit for simple static reuse; consider build-time include later if SEO-critical.
+
 
 ---
