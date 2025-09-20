@@ -4,6 +4,7 @@ const ageSelect = document.getElementById('age');
 const difficultySelect = document.getElementById('difficulty');
 const categoriesSelect = document.getElementById('categories');
 const form = document.getElementById('criteria-form');
+const ageError = document.getElementById('age-error');
 
 let categoriesData = [];
 let ageGroups = [];
@@ -40,6 +41,12 @@ function refreshCategories() {
 
 ageSelect?.addEventListener('change', () => {
   refreshCategories();
+  if (ageSelect.value) {
+    // Clear error state if previously shown
+    ageSelect.removeAttribute('aria-invalid');
+    ageSelect.removeAttribute('aria-describedby');
+    ageError?.classList.add('hidden');
+  }
 });
 
 // Difficulty labels capitalization handled in UI by rewriting options
@@ -55,6 +62,10 @@ form?.addEventListener('submit', (e) => {
   e.preventDefault();
   const ageGroup = ageSelect.value;
   if (!ageGroup) {
+    ageSelect.setAttribute('aria-invalid', 'true');
+    ageSelect.setAttribute('aria-describedby', 'age-error');
+    ageError?.classList.remove('hidden');
+    ageError.textContent = 'Please select an age group to continue.';
     ageSelect.focus();
     return;
   }
