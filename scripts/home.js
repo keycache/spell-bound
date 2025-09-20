@@ -70,7 +70,17 @@ form?.addEventListener('submit', (e) => {
     return;
   }
   const difficulty = difficultySelect.value || 'any';
-  const selectedCategories = Array.from(categoriesSelect.selectedOptions).map(o => o.value);
+  let selectedCategories = Array.from(categoriesSelect.selectedOptions).map(o => o.value);
+  // Fallback: if user didn't manually select any categories, we automatically include
+  // ALL categories for the chosen age group. This prevents creating a criteria object
+  // with an empty categories array which previously led to zero words being loaded
+  // on the practice page (reported bug). We still store the expanded list explicitly
+  // so downstream pages don't need to re-derive it unless legacy criteria is encountered.
+  if (!selectedCategories.length) {
+    selectedCategories = categoriesData
+      .filter(c => c.age_group === ageGroup)
+      .map(c => c.category_slug);
+  }
   const criteria = { ageGroup, difficulty, categories: selectedCategories, ts: Date.now() };
   saveJSON(STORAGE_KEYS.CRITERIA, criteria);
   window.location.href = 'practice.html';

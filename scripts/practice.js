@@ -53,7 +53,22 @@ async function init() {
 }
 
 async function loadSelectedCategories() {
-  const catSlugs = criteria.categories || [];
+  let catSlugs = criteria.categories || [];
+  // Defensive fallback: In case stored criteria came from an older session (or edge case)
+  // where categories were empty, we reconstruct the full category set for the age group
+  // here as a second line of defense. Normally home.js now stores an expanded list when
+  // the user leaves category selection blank.
+  if (!catSlugs.length && criteria?.ageGroup) {
+    try {
+      const res = await fetch('../data/categories.json');
+      if (res.ok) {
+        const cats = await res.json();
+        catSlugs = cats.filter(c => c.age_group === criteria.ageGroup).map(c => c.category_slug);
+      }
+    } catch (e) {
+      console.warn('Could not load categories.json for fallback', e);
+    }
+  }
   allWords = await loadWordsByCategory(catSlugs);
 }
 
